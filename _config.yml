@@ -20,12 +20,10 @@ timezone: America/Sao_Paulo
 
 title: Caravo                          # the main title
 
-tagline: Aprenda Japonês   # it will display as the sub-title
+tagline: Salvando você do marketing digital e de cursos esquisitos   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Um site que te ensina a aprender japonês de forma simples, eficiente e gratuita, de forma já testada e validada no exterior.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
