@@ -26,7 +26,7 @@ description: >-                        # used by seo meta and the atom feed
   Um site que te ensina a aprender japonês de forma simples, eficiente e gratuita, de forma já testada e validada no exterior.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://caravo-way.github.io'
 
 github:
   username: itsmaia             # change to your github username
@@ -47,13 +47,13 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: <meta name="google-site-verification" content="UBooStnBjN-UD8_SWu0XkmztAB3CfOnWyJdcymlwn2A" /> # change to your verification string
 
 # ↑ --------------------------
 
 
 google_analytics:
-  id: ''              # fill in your Google Analytics ID
+  id: 'G-3KXMBGQR2Z'              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
