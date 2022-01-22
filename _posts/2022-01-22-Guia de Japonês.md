@@ -12,7 +12,7 @@ pin: true
 
 >Aqui você vai aprender a utilizar este site. Se você se perder ou esquecer a ordem em que deve ler e seguir os conteúdos, volte à este artigo.
 
-[Por que mais um site te ensinando a aprender japonês?](https://caravo-way.github.io/itsmaia.github.io/posts/Guia-de-Japon%C3%AAs/)
+[Por que mais um site te ensinando a aprender japonês?](https://caravo-way.github.io/itsmaia.github.io/posts/por-que-mais-um-site-ensinando-japones/)
 
 [Quanto tempo leva aprender japonês?](https://caravo-way.github.io/itsmaia.github.io/posts/quanto-tempo-leva-aprender-japones/)
 
