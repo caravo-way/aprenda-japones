@@ -1,8 +1,9 @@
 ---
-title: About
+title: Sobre
 icon: fas fa-info-circle
 order: 4
 ---
 
+## Ainda tem dúvidas? Quer contribuir?
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+Me manda um email em caravo@fastmail.com que a gente conversa
