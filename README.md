@@ -10,4 +10,5 @@ O projeto é COMPLETAMENTE aberto. Sinta-se livre para abrir um pull request par
 Me manda um email em caravo@fastmail.com que a gente conversa
 
 Se gostou do meu trabalho aqui e acha que vale um cafézinho, agradeço!
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I85IRUJ)
