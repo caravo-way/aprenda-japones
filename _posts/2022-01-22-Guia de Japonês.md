@@ -13,7 +13,7 @@ toc: false
 
 Aqui você vai aprender a utilizar este site. Se você se perder ou esquecer a ordem em que deve ler e seguir os conteúdos, volte à este artigo.
 
->Por que esse site foi criado? Vale a pena você sequer ler isso aqui? O método á para você?
+>Por que esse site foi criado? Vale a pena você sequer ler isso aqui? O método é para você?
 >
 >[Por que mais um site te ensinando a aprender japonês?](https://caravo-way.github.io/itsmaia.github.io/posts/por-que-mais-um-site-ensinando-japones/)
 
