@@ -15,27 +15,27 @@ Aqui você vai aprender a utilizar este site. Se você se perder ou esquecer a o
 
 >Por que esse site foi criado? Vale a pena você sequer ler isso aqui? O método é para você?
 >
->[Por que mais um site te ensinando a aprender japonês?](https://caravo-way.github.io/itsmaia.github.io/posts/por-que-mais-um-site-ensinando-japones/)
+>[Por que mais um site te ensinando a aprender japonês?](https://aprendajp.com/posts/por-que-mais-um-site-ensinando-japones/)
 
 >Agora que você ja sabe mais ou menos se vai ou não seguir o método, você precisa saber se vai ter os resultados que espera, como o método funciona e se vale seu tempo, certo?
 >
->[Quanto tempo leva aprender japonês?](https://caravo-way.github.io/itsmaia.github.io/posts/quanto-tempo-leva-aprender-japones/)
+>[Quanto tempo leva aprender japonês?](https://aprendajp.com/posts/quanto-tempo-leva-aprender-japones/)
 
 >Bom, então vamos começar a falar de japonês de fato. De começo, esse artigo vai te explicar o necessário sobre os 3 alfabetos utilizados no japonês. O artigo é pensado para ter apenas o necessário para você não se sentir confuso enquanto lê as próximas etapas, então não se preocupe se parecer superficial, porque é.
->[Hiragana, Katakana e Kanji](https://caravo-way.github.io/itsmaia.github.io/posts/kana/)
+>[Hiragana, Katakana e Kanji](https://aprendajp.com/posts/kana/)
 
 >Aqui começa a labuta, meus amigos. Aqui você vai começar a estudar os 2 primeiros alfabetos.
 >Essa etapa vai levar de uma a duas semanas, você pode continuar a ler o resto do site a fim de estudos sobre o método, mas conclua essa etapa antes de fazer as próximas práticas.
 >
->[Como aprender os alfabetos](https://caravo-way.github.io/itsmaia.github.io/posts/como-aprender-os-alfabetos-japoneses/)
+>[Como aprender os alfabetos](https://aprendajp.com/posts/como-aprender-os-alfabetos-japoneses/)
 
 >Aqui você vai entender como será possível aprender todos esses caractéres de forma tranquila, rápida e eficiente. Como atingir fluência e conforto na leitura de japonês.
 >
->[O papel do SRS](https://caravo-way.github.io/itsmaia.github.io/posts/O-papel-do-SRS/)
+>[O papel do SRS](https://aprendajp.com/posts/O-papel-do-SRS/)
 
 >Como dito anteriormente, é na imersão que você vai de fato adquirir a língua. Nesse artigo coloquei absolutamente TUDO que sei sobre o assunto, afinal, é a parte MAIS IMPORTANTE desse site inteiro!
 >
->[Imersão](https://caravo-way.github.io/itsmaia.github.io/posts/imersao/)
+>[Imersão](https://aprendajp.com/posts/imersao/)
 
 ## Resumo
 *Não adianta nada ler o resumo sem ler os Artigos, não vai dar em nada.*
@@ -47,4 +47,4 @@ Caso tenha ficado um pouco perdido, o que você vai fazer é:
 
 #### Se quiser aprender mais sobre a teoria, casos de sucesso e exemplos de diferentes variantes do método, vá em frente, o que eu tenho está abaixo.
 
-[Recursos Extras](https://caravo-way.github.io/itsmaia.github.io/posts/recursos-extras/)
+[Recursos Extras](https://aprendajp.com/posts/recursos-extras/)
