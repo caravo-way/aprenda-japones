@@ -18,12 +18,12 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Caravo                          # the main title
+title: Aprenda Japonês                          # the main title
 
 tagline: Salvando você do marketing digital e de cursos esquisitos   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Um site que te ensina a aprender japonês de forma simples, eficiente e gratuita, de forma já testada e validada no exterior.
+  Um site que te ensina a aprender japonês de forma simples, eficiente e gratuita.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://aprendajp.com'

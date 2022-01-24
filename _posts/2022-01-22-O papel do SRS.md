@@ -11,11 +11,11 @@ comments: false
 
 SRS (Spaced Repetition System)
 
-Repetição Espaçada (SRS) é uma tecnica de memorização extremamente eficiente.
+Repetição Espaçada (SRS) é uma técnica de memorização extremamente eficiente.
 
-Seu cerebro memoriza coisas da seguinte forma: Você adiciona uma nova informação, seu cerebro atribui um tempo para a informação, pro exemplo aqui, 10 horas.
+Seu cérebro memoriza coisas da seguinte forma: Você adiciona uma nova informação, seu cérebro atribui um tempo para a informação, pro exemplo aqui, 10 horas.
 
-Após as 10 horas, a informação é apagada de sua memoria, você pode tentar se lembrar da informação, mas é impossivel. Se você revisar essa informação logo antes dela ser eliminada, seu cerebro estende o tempo dela, para o exemplo, 20 horas. Se logo antes das proximas 20 horas acabarem você ver a informação novamente, o tempo dela é mais uma vez estendido, e de novo, e de novo ate que vá diretamente para sua memória de longo prazo. É assim que seu cerebro decide o que e importante ser lembrado. Você pode ler um pouco mais sobre repetição espaçada [aqui.](https://en.wikipedia.org/wiki/Spaced_repetition)
+Após as 10 horas, a informação é apagada de sua memoria, você pode tentar se lembrar da informação, mas é impossivel. Se você revisar essa informação logo antes dela ser eliminada, seu cérebro estende o tempo dela, para o exemplo, 20 horas. Se logo antes das proximas 20 horas acabarem você ver a informação novamente, o tempo dela é mais uma vez estendido, e de novo, e de novo ate que vá diretamente para sua memória de longo prazo. É assim que seu cérebro decide o que e importante ser lembrado. Você pode ler um pouco mais sobre repetição espaçada [aqui.](https://en.wikipedia.org/wiki/Spaced_repetition)
 
 Com isso em mente, usaremos um programa chamado [Anki.](https://apps.ankiweb.net/) Anki é um programa de [flashcards](https://en.wikipedia.org/wiki/Flashcard), isso é, você cria cartões com informações que deseja lembrar para revisar periodicamente.
 

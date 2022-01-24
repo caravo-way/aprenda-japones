@@ -34,7 +34,7 @@ Vantagens:
 * Da para aprender tranquilamente de 10 a 20 Kanji por dia.
 * Rapidamente se acostuma com Kanji e eles deixam de parecer rabiscos aleatórios e indistinguíveis.
 * Se utilizar o método que vou recomendar mais a frente, não vai confundir Kanji que são parecidos.
-* Ja ter o kanji associado a uma palavra em sua lingua facilita MUITO aprender a leitura desse kanji quando for fazer isso.
+* Ja ter o kanji associado a uma palavra em sua língua facilita MUITO aprender a leitura desse kanji quando for fazer isso.
 
 Desvantagens:
 
