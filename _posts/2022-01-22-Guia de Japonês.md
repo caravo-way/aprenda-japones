@@ -22,6 +22,7 @@ Aqui você vai aprender a utilizar este site. Se você se perder ou esquecer a o
 >[Quanto tempo leva aprender japonês?](https://aprendajp.com/posts/quanto-tempo-leva-aprender-japones/)
 
 >Bom, então vamos começar a falar de japonês de fato. De começo, esse artigo irá explicar o necessário sobre os 3 alfabetos utilizados no japonês. O artigo é pensado para ter apenas o necessário para você não se sentir confuso enquanto lê as próximas etapas, então não se preocupe se parecer superficial, porque é.
+>
 >[Hiragana, Katakana e Kanji](https://aprendajp.com/posts/kana/)
 
 >Aqui começa a labuta, meus amigos. Aqui você vai começar a estudar os 2 primeiros alfabetos.
