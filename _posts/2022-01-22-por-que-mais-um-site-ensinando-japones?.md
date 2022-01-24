@@ -15,7 +15,7 @@ Porque sim. Depois de muito fuçar na internet, vimos que a maioria dos cursos d
   
 R: Nenhum deles foi escrito para brasileiros, com recursos   traduzidos, repensados e organizados especificamente para nós,   tupiniquins.
   
-#### Por que não traduzir um dos sites ao lado, já que o conteúdo, já está lá?
+#### Por que não traduzir um dos sites ao lado, já que o conteúdo já está lá?
   
 R: Um pouco pelo ponto escrito acima, um pouco porque acho legal   relatar exatamente o que eu estou fazendo, o que deu errado pra   mim, e ser livre pra mudar de ideia completamente e reescrever o   método todo amanhã.
   
