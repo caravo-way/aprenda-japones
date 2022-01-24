@@ -11,9 +11,12 @@ comments: false
 
 ## Kana
 
-Para Hiragana e Katakana, faça da forma que achar melhor. Recomendo que use ou mnemonicos (é uma estratégia de memorização, da uma procurada) ou vá na raça mesmo, não recomendo que voce use Anki por enquanto, mas se quiser, vá em frente. Se for aprender na força bruta, recomendo que escreva e reescreva os Kana até aprender. Começe com hiragana e quando se sentir 100% confortável, faça o mesmo para Katakana.
+Para Hiragana e Katakana, faça da forma que achar melhor. Sei que isso soa idiota, mas é verdade. Existem MUITOS recursos online para aprender Hiragana e Katakana. Eu pessoalmente recomendo que use ou mnemonicos (é uma estratégia de memorização, da uma procurada) ou vá na raça mesmo. Não recomendo que voce use Anki por enquanto, mas se quiser, vá em frente. Se for aprender na força bruta, recomendo que escreva e reescreva os Kana até aprender. Começe com hiragana e quando se sentir 100% confortável, faça o mesmo para Katakana.
 
->Isso pode levar de uma a duas semanas.
+>Lembre-se, não existe uma melhor forma. Tentou mnemonicos e não funcionou pra você? Parta pra outra. Tentou SRS e não funcionou? Parta pra outra. Ache o que funciona melhor para você independente do que esteja escrito aqui (ou qualquer um dos artigos). Fazer de uma forma não tão eficiente é melhor do que não fazer, faça o que gosta, da maneira que gosta. 5 dias a mais ou a menos nessa etapa não farão diferença no longo prazo.
+>> Se você não estiver se divertindo no processo todo, você vai falhar. Tenha isso em mente em todas as etapas do processo.
+
+>Isso pode levar de uma a duas semanas. Se levar mais, não tem problema, é só uma média.
 
 ## 漢字
 
@@ -30,6 +33,7 @@ Vantagens:
 
 * Da para aprender tranquilamente de 10 a 20 Kanji por dia.
 * Rapidamente se acostuma com Kanji e eles deixam de parecer rabiscos aleatórios e indistinguíveis.
+* Se utilizar o método que vou recomendar mais a frente, não vai confundir Kanji que são parecidos.
 * Ja ter o kanji associado a uma palavra em sua lingua facilita MUITO aprender a leitura desse kanji quando for fazer isso.
 
 Desvantagens:
@@ -53,4 +57,5 @@ Desvantagens:
 * No começo, você provavelmente vai ficar bem frustrado ao confundir diversos kanji, palavras e leituras.
 
 >Recomendo que tome sua decisão após ter aprendido Hiragana e Katakana.
+>
 >Se preocupe com isso antes de se preocupar com as tecnicidades das seções a seguir. Pode ler mas não se preocupe muito por enquanto
