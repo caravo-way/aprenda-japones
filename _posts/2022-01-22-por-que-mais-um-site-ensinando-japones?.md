@@ -31,7 +31,7 @@ NÃO! Tenho tempo. Quero a fonte que originou tudo, o suco sagrado, apenas o mel
   
 R: Não deveria, pô 🥳
   
-Falando sério, se você quer aprender para uma viagem que esta chegando ou porque vai precisar falar Japonês logo, você vai se dar melhor seguindo um método tradicional mesmo. Um com foco em turismo seria ideal. Se seu objetivo é simplesmente conseguir consumir japonês em animes, mangás, youtubers nativos, sites de notícia, light novels etc, vem por aqui que vai ser melhor e mais rápido (E quando você for falar, terá uma pronúncia muito melhor 🤫).
+Falando sério, se você quer aprender para uma viagem que esta chegando ou porque vai precisar falar Japonês logo, você vai se dar melhor seguindo um método tradicional mesmo. Um com foco em turismo seria ideal. Se seu objetivo é simplesmente conseguir consumir japonês em animes, mangás, youtubers nativos, sites de notícia, light novels etc, vem por aqui que vai ser melhor, menos doído e mais divertido.
   
 #### Dahora, e quanto vai custar essa brincadeirinha?
   
