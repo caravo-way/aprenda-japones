@@ -24,6 +24,7 @@ R: Um pouco pelo ponto escrito acima, um pouco porque acho legal   relatar exata
 R: Sim, acho. Recomendo que leia e siga o metodo do Moe [aqui](https://learnjapanese.moe/guide/)
      
 Se estiver com preguiça, ler o site da [Refold](https://refold.la/) vai ser mais fácil.
+>E só se estiver com preguiça mesmo, eu realmente recomendo que vá ou com Moe ou com AJATT.
 
 NÃO! Tenho tempo. Quero a fonte que originou tudo, o suco sagrado, apenas o mel: Recomendo que leia o site do [AJATT](http://www.alljapaneseallthetime.com/blog/all-japanese-all-the-time-ajatt-how-to-learn-japanese-on-your-own-having-fun-and-to-fluency/)
   
