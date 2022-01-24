@@ -80,7 +80,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: white_logo.png
+avatar: 'https://github.com/caravo-way/aprenda-japones/blob/main/white_logo.png?raw=true'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
