@@ -30,6 +30,10 @@ Aqui você vai aprender a utilizar este site. Se você se perder ou esquecer a o
 >
 >[Como aprender os alfabetos](https://aprendajp.com/posts/como-aprender-os-alfabetos-japoneses/)
 
+>Depois de aprender Hiragana e Katakana, recomendo que leia esse artigo sobre gramática.
+>
+>[Guia de Gramática](https://aprendajp.com/posts/guia-de-gramatica/)
+
 >Aqui você vai entender como será possível aprender todos esses caracteres de forma tranquila, rápida e eficiente. Como atingir fluência e conforto na leitura de japonês.
 >
 >[O papel do SRS](https://aprendajp.com/posts/O-papel-do-SRS/)
