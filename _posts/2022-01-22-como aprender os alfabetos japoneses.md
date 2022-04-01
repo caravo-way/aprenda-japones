@@ -3,9 +3,7 @@ title: Como aprender os alfabetos
 date: 2022-01-22 17:39:00 +/-TTTT
 categories: [Guia, Teoria]
 tags: [guia, teoria, hiragana, katakana, kanji]
-author:
-  name: Gustavo Maia
-  link: https://github.com/itsmaia
+author: gustavo_maia
 comments: false
 ---
 
@@ -13,10 +11,10 @@ comments: false
 
 Para Hiragana e Katakana, faça da forma que achar melhor. Sei que isso soa idiota, mas é verdade. Existem MUITOS recursos online para aprender Hiragana e Katakana. Eu pessoalmente recomendo que use ou mnemonicos (é uma estratégia de memorização, da uma procurada) ou vá na raça mesmo. Não recomendo que voce use Anki por enquanto, mas se quiser, vá em frente. Se for aprender na força bruta, recomendo que escreva e reescreva os Kana até aprender. Começe com hiragana e quando se sentir 100% confortável, faça o mesmo para Katakana.
 
->Lembre-se, não existe uma melhor forma. Tentou mnemonicos e não funcionou pra você? Parta pra outra. Tentou SRS e não funcionou? Parta pra outra. Ache o que funciona melhor para você independente do que esteja escrito aqui (ou qualquer um dos artigos). Fazer de uma forma não tão eficiente é melhor do que não fazer, faça o que gosta, da maneira que gosta. 5 dias a mais ou a menos nessa etapa não farão diferença no longo prazo.
+> Lembre-se, não existe uma melhor forma. Tentou mnemonicos e não funcionou pra você? Parta pra outra. Tentou SRS e não funcionou? Parta pra outra. Ache o que funciona melhor para você independente do que esteja escrito aqui (ou qualquer um dos artigos). Fazer de uma forma não tão eficiente é melhor do que não fazer, faça o que gosta, da maneira que gosta. 5 dias a mais ou a menos nessa etapa não farão diferença no longo prazo.
 >> Se você não estiver se divertindo no processo todo, você vai falhar. Tenha isso em mente em todas as etapas do processo.
 
->Isso pode levar de uma a duas semanas. Se levar mais, não tem problema, é só uma média.
+> Isso pode levar de uma a duas semanas. Se levar mais, não tem problema, é só uma média.
 
 ## 漢字
 
