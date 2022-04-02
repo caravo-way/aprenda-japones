@@ -15,23 +15,31 @@ O lado bom disso é que aprendendo dessa forma seu japonês será o mais natural
 
 Te desanimei? Relaxa. Esse tempo que eu disse é para você atingir fluência completa no idioma. Lembre-se que **20% das palavras mais comuns da língua japonesa representam 80% da língua falada.** E pode confiar em mim, você vai levar muito menos tempo do que imagina para chegar nisso. Falaremos mais disso adiante 😚
 
-E vou aprender uma língua só ouvindo e lendo conteúdo feito nela? Sim. Não só eu como mais de alguns amigos aprenderam inglês dessa forma, só ouvindo, ouvindo e ouvindo. Não pesquisamos palavras, não assistimos aulas, não fizemos nada disso, simplesmente consumimos o que queremos consumir.
+## Como aprender Japonês?
 
-Seu cérebro simplesmente não consegue aceitar que está recebendo mensagens que é incapaz de compreender, quanto mais japonês você consumir, mais seu cérebro vai ficar rodando processos em segundo plano tentando decodificar tudo que você ouviu, fazendo comparações, reconhecendo padrões e tentando criar um modelo mental na sua cabeça de como compreender aquelas mensagens que são importantes para você. É assim que bebês aprendem uma língua e é assim que adultos aprendem uma língua. Você precisa *compreender mensagens*.
+Ouvindo, lendo, consumindo muito japonês e utilizando as ferramentas e teorias corretas. É assim que você aprendeu português e é assim que você vai aprender japonês!
 
-Você pode me perguntar:
+Acredito fortemente na [Teoria da Aquisição de Segundo Idioma de Stephen Krashen](https://www.sk.com.br/sk-krash.html). De acordo com ele, seres humanos aprendem línguas apenas de uma forma: compreendendo mensagens. Nos aprofundaremos mais nisso em um outro artigo!
 
-> **Pô, mas eu assisto conteúdo em japonês a pelo menos 10 anos e sinceramente não sei mais do que 10 palavras. Explica essa então!**
+Nesse blog, vou te ensinar a construir uma base suficiente de japonês para que você consiga aprender o idioma enquanto faz coisas que você gosta. Assistindo séries, filmes, animes, ouvindo podcasts, videos no youtube, o que você quiser! Chamamos esse processo de **imersão.**
+
+## vou aprender uma língua só ouvindo e lendo conteúdo feito nela?
+
+Sim. Não só eu como mais de alguns amigos aprenderam inglês dessa forma, só ouvindo, ouvindo e ouvindo. Não pesquisamos palavras, não assistimos aulas, não fizemos nada disso, simplesmente consumimos o que queremos consumir.
+
+_Seu cérebro simplesmente não consegue aceitar que está recebendo mensagens que é incapaz de compreender._ Quanto mais japonês você consumir, mais seu cérebro vai ficar rodando processos em segundo plano tentando decodificar tudo que você ouviu, fazendo comparações, reconhecendo padrões e tentando criar um modelo mental na sua cabeça de como compreender aquelas mensagens que são importantes para você. É assim que bebês aprendem uma língua e é assim que adultos aprendem uma língua. Você precisa _compreender mensagens._
+
+## Pô, mas eu assisto conteúdo em japonês a pelo menos 10 anos e sinceramente não sei mais do que 10 palavras. Explica essa então!
 
 Sim, você consome japonês a 10 anos, com legenda. Se você utiliza legendas, seu cérebro não tem motivo algum para gastar energia tentando criar um modelo daquela língua na sua cabeça. Ler legenda é automático, você não precisa nem pensar. Seu cérebro é tão bom nisso que é quase como se você estivesse escutando os personagens falando na sua língua nativa, é tão automático que você nem se lembra de que esta lendo, certo?
 
 Eu levei mais ou menos 8 anos para aprender inglês dessa forma.
 
-> **8 ANOS? Tá maluco, to vazando.**
+**8 ANOS? Tá maluco, to vazando.**
 
 Sim, foram 8 anos porque não estava tentando, foi automático. Com método e prática intencional, seu cérebro leva *muito menos tempo* do que isso para adquirir uma língua. Uma coisa é você atirar um dardo aleatoriamente centenas de vezes até acertar o alvo, outra coisa é você *tentar mirar no alvo*.
 
-Cansei de te enrolar, vou te falar a média de tempo que as pessoas da comunidade de aprendizado de línguas com imersão levam para aprender japonês.
+Cansei de te enrolar, vou te falar a média de tempo que as pessoas da comunidade de aprendizado de línguas com metodos similares levam para aprender japonês.
 
 De acordo com [Refold](https://refold.la/) que é uma das plataformas que ensinam a aprender línguas com imersão, a média de tempo é:
 
@@ -43,18 +51,18 @@ De acordo com [Refold](https://refold.la/) que é uma das plataformas que ensina
 
 Tenha em mente que Refold é um site bem mainstream, pensado para todo mundo e nivelado bem por baixo, então tenha em mente que você pode levar o mesmo tempo mesmo se você tiver muito menos tempo todos os dias para consumir japonês.
 
-Na minha experiência, com 6 meses de estudo, consumindo na **média** de 45 minutos de japonês por dia (exatamente, pois eu sou nerd e contei), isso é, alguns dias 2 horas, outros dias 4 horas, outros dias nada. E com a média de 20 minutos de SRS por dia (jájá chegaremos lá) meu nível de compreensão é mais ou menos o seguinte: Consigo consumir animes slice of life como:
+Na minha experiência, com 9 meses de estudo, consumindo na **média** de 45 minutos de japonês por dia (exatamente, pois eu sou nerd e contei), isso é, alguns dias 2 horas, outros dias 4 horas, outros dias nada. E com a média de 20 minutos de SRS por dia (jájá chegaremos lá) meu nível de compreensão é mais ou menos o seguinte: Consigo consumir animes slice of life como:
 > [Ore Monogatari!!](https://myanimelist.net/anime/28297/Ore_Monogatari)
 >
 > [Haikyuu!!](https://myanimelist.net/anime/20583/Haikyuu?q=haikyuu&cat=anime) 
 >
 > [Karakai Jouzu no Takagi-san](https://myanimelist.net/anime/35860/Karakai_Jouzu_no_Takagi-san?q=kara&cat=anime) 
 
-com no mínimo 65% - 70% de compreensão usando legendas em japonês. Eu sinto que é mais do que isso, mas levando em conta que pode ser loucura da minha mente, vou manter esse valores.
+com no mínimo 80% - 90% de compreensão usando legendas em japonês. Eu sinto que é mais do que isso, mas levando em conta que pode ser loucura da minha mente, vou manter esse valores.
 
 Acredite em mim quando te digo que meus resultados não são nada comparados ao resto da comunidade, se você procurar, vai ver que com métodos de imersão, não é nada incomum pessoas passarem no JLPT N1 com 18 meses de estudo. 
 
-Acha que to chapando? Todos esses caras aqui usaram esse método (porem outras variantes) e isso são eles falando japonês com:
+Pessoas que usaram esse método (porem outras variantes) falando japonês com:
 
 >18 meses:
 > * [Khatzumoto, fundador do AJATT (Método que derivou todos os outros)](https://www.youtube.com/watch?v=ejRkuX1RGf4)
