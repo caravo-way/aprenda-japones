@@ -31,8 +31,8 @@ panel:
 date_format:
   tooltip: '%a, %b %e, %Y, %l:%M %p %z'
   post:
-    long: '%b %e, %Y'
-    short: '%b %e'
+    long: '%e %b, %Y'
+    short: '%e %b'
     archive_month: '%b'
 
 copyright:
@@ -59,31 +59,31 @@ not_found:
 # ----- Posts related labels -----
 
 post:
-  written_by: By
-  posted: Posted
-  updated: Updated
+  written_by: Por
+  posted: Postado
+  updated: Atualizado
   timeago:
-    day: days ago
-    hour: hours ago
-    minute: minutes ago
-    just_now: just now
-  words: words
-  pageview_measure: views
+    day: dias atrás
+    hour: horas atrás
+    minute: minutos atrás
+    just_now: agora
+  words: palavras
+  pageview_measure: visualizações
   read_time:
     unit: min
     prompt: read
-  relate_posts: Further Reading
-  share: Share
+  relate_posts: Artigos Relacionados
+  share: Compartilhar
   button:
-    next: Newer
-    previous: Older
+    next: Mais recente
+    previous: Mais antigo
     copy_code:
-      succeed: Copied!
+      succeed: Copiado!
     share_link:
-      title: Copy link
-      succeed: Link copied successfully!
+      title: Copiar link
+      succeed: Link copiado com sucesso!
   # pinned prompt of posts list on homepage
-  pin_prompt: Pinned
+  pin_prompt: Fixado
 
 # categories page
 categories:
