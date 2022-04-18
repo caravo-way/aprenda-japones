@@ -66,9 +66,8 @@ toc: false
 *Não adianta nada ler o resumo sem ler os Artigos, não vai dar em nada.*
 Caso tenha ficado um pouco perdido, o que você vai fazer é:
 * Aprender Hiragana e Katakana até se sentir completamente confortável com ambos.
-* Quando dominar os kana, você vai começar a seus estudos com Kanji e também sua imersão no japonês. Tente manter no máximo 10% do tempo que dedica ao japonês para SRS.
-* Enquanto está nesse processo, leia um guia de gramática de sua preferência. Como dito anteriormente, *estudar gramática não é algo vital*. Recomendo dedicar 5 minutos para estudo de gramática para cada 2 horas de imersão em japonês.
-* Após terminar o Lazy Kanji ou então quando se sentir confortável o suficiente com Kanji no geral, você vai continuar sua imersão como sempre, mas vai começar a mineirar vocabulário e/ou sentenças. A partir de agora, você vai criar seus próprios decks.
+* Enquanto está nesse processo, leia um guia de gramática de sua preferência.
+* Quando dominar os kana, você vai começar a seus estudos com Kanji e também sua imersão no japonês. Não se esqueça que anki não é a parte principal do processo. Seu tempo será dividido entre consumir japonês, criar cards com base no conteúdo e revisar diáriamente.
 
 #### Se quiser aprender mais sobre a teoria, casos de sucesso e exemplos de diferentes variantes do método, vá em frente, o que eu tenho está abaixo.
 
