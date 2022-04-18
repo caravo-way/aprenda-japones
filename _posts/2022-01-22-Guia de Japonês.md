@@ -18,7 +18,7 @@ Esse conteúdo está sempre sendo atualizado. De pequenas correções nos artigo
 >Por que esse site foi criado? Vale a pena você sequer ler isso aqui? O método é para você?
 >
 > [Por que mais um site te ensinando a aprender japonês?]({% link _posts/2022-01-22-por-que-mais-um-site-ensinando-japones?.md %})
-
+>
 >Agora que já sabe mais ou menos se vai ou não seguir o método, você precisa saber se vai ter os resultados que espera, como o método funciona e se vale seu tempo, certo?
 >
 >[Quanto tempo leva aprender japonês?]({% link _posts/2022-01-22-quanto tempo leva aprender japones.md %})
@@ -28,21 +28,29 @@ Esse conteúdo está sempre sendo atualizado. De pequenas correções nos artigo
 > De começo, esse artigo irá explicar o necessário sobre os 3 alfabetos utilizados no japonês. O artigo é pensado para ter apenas o necessário para você não se sentir confuso enquanto lê as próximas etapas, então não se preocupe se parecer superficial, porque é.
 >
 >[Hiragana, Katakana e Kanji]({% link _posts/2022-01-22-kana.md %})
-
+>
 > Aqui você vai começar a estudar os 2 primeiros alfabetos.
 > Essa etapa vai levar de uma a duas semanas, você pode continuar a ler o resto do site para entender melhor o método, mas conclua essa etapa antes de fazer as próximas práticas.
-
+>
 >
 >[Como aprender os alfabetos]({% link _posts/2022-01-22-como aprender os alfabetos japoneses.md %})
-
+>
 > Qual o papel do estudo da gramática na aquisição de uma língua?
 >
 >[Guia de Gramática]({% link _posts/2022-01-29-guia-de-gramatica.md %})
 
->Aqui você vai entender como será possível aprender todos esses caracteres de forma tranquila, rápida e eficiente. Como atingir fluência e conforto na leitura de japonês.
->
->[O papel do SRS]({% link _posts/2022-01-22-O papel do SRS.md %})
+## Anki e SRS
 
+> Aqui você vai entender como será possível aprender todos esses caracteres de forma tranquila, rápida e eficiente. Como atingir fluência e conforto na leitura de japonês.
+>
+> [O papel do SRS]({% link _posts/2022-01-22-O papel do SRS.md %})
+>
+> [Cards de vocabulário ou cards de sentença?]({% link _posts/2022-04-16-vocab-vs-sentença.md %})
+>
+> [Configurando o Anki]({% link _posts/2022-04-16-como-configurar-anki.md %})
+>
+> [Animecards]({% link _posts/2022-04-16-animecards.md %})
+>
 > Como dito anteriormente, é na imersão que você vai de fato adquirir a língua. Nesse artigo coloquei absolutamente TUDO que sei sobre o assunto, afinal, é a parte MAIS IMPORTANTE desse site inteiro!
 >
 >[Imersão]({% link _posts/2022-01-22-imersao.md %})
