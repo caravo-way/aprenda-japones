@@ -33,6 +33,12 @@ Agora que já sabe mais ou menos se vai ou não seguir o método, você precisa 
 
 ## Introdução
 
+Antes de tudo, gostaria de deixar claro que o objetivo desse projeto não é necessariamente te ensinar japonês. Você pode até encontrar um artigo ou outro explicando um ponto interessante da língua, ou algo do tipo, mas não é o objetivo principal. Você não vai encontrar no guia principal aulas de gramática, Kanji, cultura, pronúncia, etc.
+
+O objetivo desse guia é te ensinar a aprender por conta própria.
+
+Você precisa ser autodidata e entender que boa parte do processo envolve pesquisar por conta própria. Por isso, recomendo fortemente que entre em uma comunidade de pessoas que também estão aprendendo. Pode ser no Discord, no zap, presencialmente, o que achar melhor.
+
 Esse artigo irá explicar o necessário sobre os 3 alfabetos utilizados no japonês. O artigo é pensado para ter apenas o necessário para você não se sentir confuso enquanto lê as próximas etapas, então não se preocupe se parecer superficial, porque é.
 
 [Hiragana, Katakana e Kanji]({% link _posts/2022-01-22-kana.md %})
