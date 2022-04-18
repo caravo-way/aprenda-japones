@@ -7,10 +7,5 @@ author: gustavo_maia
 comments: false
 ---
 
-> An example showing the `info` type prompt.
-{: .prompt-info }
-
-## Prompts
-
-> Example line for prompt.
+> Foi mal, esse artigo ainda não foi escrito 😬.
 {: .prompt-info }

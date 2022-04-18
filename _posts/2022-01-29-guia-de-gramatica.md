@@ -28,6 +28,7 @@ Com japonês vai ser exatamente a mesma coisa, então não se preocupe em ficar 
 > Recomendo que leia o guia do [Tae Kim](https://docs.google.com/document/d/1-PvqBZxUzCkxBRw8PxUD4IlDrewP0j1B8EFxvKCBcXc/edit#) que foi gentilmente traduzido pelo pessoal do [Japão Pop](https://discord.gg/YyQxkzYfJh)
 >
 > Se por qualquer motivo não gostar do Tae Kim, sinta-se a vontade pra estudar o básico de gramática do jeito que quiser. Livros, Youtube, você que manda.
+{: .prompt-tip }
 
 Criar cards no anki para os pontos de gramática tambem é uma opção, você que sabe.
 

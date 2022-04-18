@@ -35,34 +35,8 @@ Quando for fazer suas reviews, os cards aparecerão para você como na imagem.
 
 Você ve a frente do card, tenta se lembrar da resposta e clica para virar o card. Você escolhe o quão bem se lembrou da informação e o Anki lida com o resto para você, decidindo quando vai ser a melhor hora para você ver aquela informação de novo. Existem outras peculiaridades mas a gente pode nerdar nisso mais tarde.
 
->Por hora, vou supor que você consegue aprender a usar o anki e procurar como configurar ele sozinho, só não da para eu fazer isso agora. Se alguem conseguir escrever essa parte para nós, por favor sinta-se livre para abrir um pull request. (É bem fácil e é por isso que vou pular por hora, as configurações default serao boas o suficiente por enquanto)
+> Fique tranquilo que você vai aprender mais sobre os tipos diferentes de card no [próximo artigo]({% link _posts/2022-04-16-vocab-vs-sentença.md %}) seguindo o nosso guia.
+{: .prompt-info }
 
-Bom, com seu anki configurado, se não tiver certeza de qual dos dois caminhos que sugeri vai usar para aprender kanji, sugiro que siga o "Aprender os kanjis mais utilizados, associando eles a uma palavra em português." por dois motivos
-
-* Foi o que utilizei e funcionou bem para mim.
-* É mais fácil de configurar e de começar.
-* O principal deck para isso é mais fácil para eu traduzir.
-
-Se quiser seguir pelo outro caminho, não terá dificuldade de encontrar como criar cards naquele formato na internet.
-
-O metodo que recomendo é o do [Heisig](https://www.amazon.com.br/Remembering-Kanji-Complete-Japanese-Characters/dp/0824835921/ref=sr_1_2?qid=1642814258&refinements=p_27%3AJames+Heisig&s=books&sr=1-2&text=James+Heisig&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678) que, obviamente, só existe em inglês. Resumindo: É um método eficiente para te fazer lembrar os 2136 kanji necessários para ser alfabetizado. O ponto é que muitos kanji nessa lista são bem raros e não aparecem muito, então a comunidade criou o método "Lazy Kanji" que é composto dos 1100 principais kanji e radicais, bem mais fácil e eficiente.
-
-Você pode baixar o deck pro Anki do Lazy Kanji completamente traduzido para o português [aqui.](https://mega.nz/file/KCYA1T7J#nfjvONXK8NubWx5ZFuynmvZ0nbxPgZj0npoE7FDDzLI)
-
->O deck possui erros de português porque é impossível traduzir na mão, se encontrar erros, por favor abra um pull request ou mande um email para caravo@fastmail.com 
-Obrigado
-
-Se tiver ficado meio perdido, em resumo, o que você vai fazer todos os dias por enquanto é:
-> Recomendo que faça de 10 a 15 novos cards por dia. Se fizer mais do que isso, suas reviews vão acabar acumulando e o anki vai levar muito tempo para ser feito todos os dias.
-> 
-> Além disso, todos os dias, o máximo de tempo possível, fará sua imersão no japonês.
-> 
-> Após completar o Lazy Kanji ou se sentir confortável suficiente com Kanji, vá para a seção de Mineirar (SEÇÃO À SER ESCRITA).
-> 
-> **Essa etapa pode levar de 3 a 8 meses**
-
-Você pode nao acreditar em mim agora, mas o que vai te ensinar de fato é a imersão, então foque nela e não no Anki. Anki é apenas um complemento para te auxiliar na sua imersão. O ideal  que apenas 10% do seu tempo dedicado ao japonês seja fazendo anki, principalmente agora.
-
-E durante todo esse tempo, faça sua imersão todos os dias, o máximo de tempo possível, **mesmo que seja somente 5 minutos por dia.**
-
-Mais sobre imersão no artigo [seguinte.](https://aprendajp.com/posts/imersao/)
+> Não se esqueça que o mais importante é o foco na imersão. É muito fácil se afundar no anki achando que é a parte mais importante. O anki é apenas um `complemento` para te ajudar na imersão.
+{: .prompt-warning }

@@ -9,9 +9,17 @@ pin: true
 toc: false
 ---
 
-Aqui você vai aprender a utilizar este site. Se você se perder ou esquecer a ordem em que deve ler e seguir os conteúdos, volte a este artigo.
+> Aqui você vai aprender a utilizar este site. Se você se perder ou esquecer a ordem em que deve ler e seguir os conteúdos, volte a este artigo.
+>
+> Esse conteúdo está sempre sendo atualizado. Partes podem ser alteradas, excluídas ou reescritas.
+{: .prompt-info }
 
-Esse conteúdo está sempre sendo atualizado. De pequenas correções nos artigos até ser refeito por completo.
+> Esse projeto ainda é um trabalho em progresso. Como estou escrevendo quase tudo sozinho, não consigo ter tempo suficiente para escrever os artigos que gostaria com a qualidade que gostaria. Portanto, alguns artigos (principalmente da metade para o final) ainda são rascunhos com erros de português, partes redundantes, etc.
+>
+> Revisarei e reescreverei tudo assim que tiver tempo, portanto, tenha paciência.
+>
+> Se quiser colaborar com o projeto, clique na aba `Sobre` para ver como pode colaborar com artigos, revisões e tudo mais. Obrigado!
+{: .prompt-warning }
 
 ## Prefácio
 
@@ -39,6 +47,12 @@ Esse conteúdo está sempre sendo atualizado. De pequenas correções nos artigo
 >
 >[Guia de Gramática]({% link _posts/2022-01-29-guia-de-gramatica.md %})
 
+## Imersão
+
+> Como dito anteriormente, é na imersão que você vai de fato adquirir a língua.
+>
+> [Imersão]({% link _posts/2022-01-22-imersao.md %})
+
 ## Anki e SRS
 
 > Aqui você vai entender como será possível aprender todos esses caracteres de forma tranquila, rápida e eficiente. Como atingir fluência e conforto na leitura de japonês.
@@ -50,10 +64,6 @@ Esse conteúdo está sempre sendo atualizado. De pequenas correções nos artigo
 > [Configurando o Anki]({% link _posts/2022-04-16-como-configurar-anki.md %})
 >
 > [Animecards]({% link _posts/2022-04-16-animecards.md %})
->
-> Como dito anteriormente, é na imersão que você vai de fato adquirir a língua. Nesse artigo coloquei absolutamente TUDO que sei sobre o assunto, afinal, é a parte MAIS IMPORTANTE desse site inteiro!
->
->[Imersão]({% link _posts/2022-01-22-imersao.md %})
 
 ## Resumo
 *Não adianta nada ler o resumo sem ler os Artigos, não vai dar em nada.*
