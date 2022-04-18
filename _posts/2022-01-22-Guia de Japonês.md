@@ -33,31 +33,28 @@ toc: false
 
 ## Introdução
 
-> De começo, esse artigo irá explicar o necessário sobre os 3 alfabetos utilizados no japonês. O artigo é pensado para ter apenas o necessário para você não se sentir confuso enquanto lê as próximas etapas, então não se preocupe se parecer superficial, porque é.
+> Esse artigo irá explicar o necessário sobre os 3 alfabetos utilizados no japonês. O artigo é pensado para ter apenas o necessário para você não se sentir confuso enquanto lê as próximas etapas, então não se preocupe se parecer superficial, porque é.
 >
->[Hiragana, Katakana e Kanji]({% link _posts/2022-01-22-kana.md %})
->
-> Aqui você vai começar a estudar os 2 primeiros alfabetos.
-> Essa etapa vai levar de uma a duas semanas, você pode continuar a ler o resto do site para entender melhor o método, mas conclua essa etapa antes de fazer as próximas práticas.
+> [Hiragana, Katakana e Kanji]({% link _posts/2022-01-22-kana.md %})
 >
 >
->[Como aprender os alfabetos]({% link _posts/2022-01-22-como aprender os alfabetos japoneses.md %})
+> Apenas um resumo sobre como será seu estudo de Kanji. As explicações tecnicas e práticas vem nos artigos seguintes.
+>
+> [Como aprender Kanji]({% link _posts/2022-01-22-como aprender os alfabetos japoneses.md %})
 >
 > Qual o papel do estudo da gramática na aquisição de uma língua?
 >
->[Guia de Gramática]({% link _posts/2022-01-29-guia-de-gramatica.md %})
+> [Guia de Gramática]({% link _posts/2022-01-29-guia-de-gramatica.md %})
 
-## Imersão
-
-> Como dito anteriormente, é na imersão que você vai de fato adquirir a língua.
->
-> [Imersão]({% link _posts/2022-01-22-imersao.md %})
-
-## Anki e SRS
+## Parte prática
 
 > Aqui você vai entender como será possível aprender todos esses caracteres de forma tranquila, rápida e eficiente. Como atingir fluência e conforto na leitura de japonês.
 >
 > [O papel do SRS]({% link _posts/2022-01-22-O papel do SRS.md %})
+>
+> Como dito anteriormente, é na imersão que você vai de fato adquirir a língua.
+>
+> [Imersão]({% link _posts/2022-01-22-imersao.md %})
 >
 > [Cards de vocabulário ou cards de sentença?]({% link _posts/2022-04-16-vocab-vs-sentença.md %})
 >

@@ -15,17 +15,18 @@ No geral, existem dois tipos de cards: cards de vocabulário e cards de sentenç
 
 Já usei diversos modelos de card e o que uso hoje e recomendo é esse. É um pouquinho chato pra configurar mas no fim, criar cards vai ser bem fácil. Praticamente 1 clique.
 
-# Importante!
-
-Antes que comecem com o cancelamento, entrei em contato com o fundador do site original perguntando o que ele achava de eu passar o conteúdo para português aqui no aprendajp e o que ele disse foi o seguinte:
-
-> Hey,
->
-> yeah that's no problem. Feel tree to do with the site content whatever you like.
+> ### Importante!
 > 
-> Be aware though that some suggestions are not entirely up to date, for example the "Load Balancer" add-on hasn't been updated for the new scheduler and "Straight Rewards" may be redundant with the V3 scheduler. I'll have to look into it and possibly update the guide again.
+> Antes que comecem com o cancelamento, entrei em contato com o fundador do site original perguntando o que ele achava de eu passar o conteúdo para português aqui no aprendajp e o que ele disse foi o seguinte:
 >
-> Good luck.
+>> Hey,
+>>
+>> yeah that's no problem. Feel tree to do with the site content whatever you like.
+>>
+>> Be aware though that some suggestions are not entirely up to date, for example the "Load Balancer" add-on hasn't been updated for the new scheduler and "Straight Rewards" may be redundant with the V3 scheduler. I'll have to look into it and possibly update the guide again.
+>>
+>> Good luck.
+{: .prompt-warning }
 
 Fiquei feliz com a resposta porque ela deixou bem claro que seguimos uma filosofia parecida. Não importa quem entrega o conteúdo, o que veio de forma gratuita deve ser distribuído de forma gratuita.
 
@@ -63,9 +64,11 @@ Instale os seguintes dicionários:
 * kanjidic_english
 * kanjium_pitch_accents (só confia)
 
-Agora vem a parte complicada. Se você só fala português, nos resta apenas a gambiarra. [Uma pessoa bem intencionada](https://github.com/eyeS-Code/jmdict_portuguese) traduziu o JMDict para português utilizando o Deepl, que é um bom tradutor. Não sei dizer o quão bom ficou, mas vou testar e com o tempo volto aqui pra dizer o que achei. Por enquanto, não há uma solução melhor. Acredito que a tradução do Deepl é boa suficiente, afinal, são cards de vocabulário e não se sentença. As instruções de instalação desse dicionário estão na descrição do projeto dele.
+Agora vem a parte complicada. Se você só fala português, nos resta apenas a gambiarra. [Uma pessoa bem intencionada](https://github.com/eyeS-Code/jmdict_portuguese) traduziu o JMDict para português utilizando o Deepl, que é um bom tradutor.
 
-Instala tambem o kanjium_pitch_accents citado acima.
+Ativei o dicionário em português para escrever esse artigo e esqueci ligado, comecei a fazer cards usando ele sem querer, ou seja, a tradução esta tão boa que eu nem percebi! As instruções de instalação desse dicionário estão na descrição do projeto dele.
+
+Instale tambem o kanjium_pitch_accents citado acima.
 
 ## Conectando com o Anki
 
@@ -102,6 +105,7 @@ Audio: {audio} - Pronúncia da palavra
 Graph: {pitch-accent-graphs} - Gráfico do ```pitch accent```
 
 > Não esquenta com o que é ```pitch accent``` agora, sério. O seu Eu do futuro irá me agradecer, mas o de agora não precisa entender nada!
+{: .prompt-info }
 
 ![image](https://user-images.githubusercontent.com/19489884/163694315-118a1937-9c56-48bc-abed-14bb04bee155.png)
 
@@ -118,3 +122,4 @@ Agora você já consegue criar cards bem simples com 1 clique. Em um próximo ar
 ![image](https://user-images.githubusercontent.com/19489884/163694637-7a2b0d63-59a3-48b8-9fd0-05ff72b0d443.png)
 
 > Thanks again to the guys at [animecards](http://animecards.site) <3.
+{: .prompt-info }

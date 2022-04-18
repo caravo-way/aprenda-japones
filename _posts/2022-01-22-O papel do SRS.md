@@ -35,8 +35,8 @@ Quando for fazer suas reviews, os cards aparecerão para você como na imagem.
 
 Você ve a frente do card, tenta se lembrar da resposta e clica para virar o card. Você escolhe o quão bem se lembrou da informação e o Anki lida com o resto para você, decidindo quando vai ser a melhor hora para você ver aquela informação de novo. Existem outras peculiaridades mas a gente pode nerdar nisso mais tarde.
 
-> Fique tranquilo que você vai aprender mais sobre os tipos diferentes de card no [próximo artigo]({% link _posts/2022-04-16-vocab-vs-sentença.md %}) seguindo o nosso guia.
+> Fique tranquilo que você vai aprender mais sobre os tipos diferentes de card em um outro artigo seguindo o nosso guia.
 {: .prompt-info }
 
-> Não se esqueça que o mais importante é o foco na imersão. É muito fácil se afundar no anki achando que é a parte mais importante. O anki é apenas um `complemento` para te ajudar na imersão.
+> O próximo artigo fala sobre imersão. Não se esqueça que o mais importante é o foco na imersão. É muito fácil se afundar no anki achando que é a parte mais importante. O anki é apenas um `complemento` para te ajudar na imersão.
 {: .prompt-warning }
