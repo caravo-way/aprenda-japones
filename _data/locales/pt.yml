@@ -23,17 +23,9 @@ search:
   no_results: Puts! não achei nada :(
 
 panel:
-  lastmod: Última Atualização
+  lastmod: Atualizado Recentemente
   trending_tags: Tags Populares
   toc: Conteúdos
-
-#  The liquid date format › http://strftime.net/
-date_format:
-  tooltip: '%a, %b %e, %Y, %l:%M %p %z'
-  post:
-    long: '%e %b, %Y'
-    short: '%e %b'
-    archive_month: '%b'
 
 copyright:
   # Shown at the bottom of the post
@@ -62,11 +54,6 @@ post:
   written_by: Por
   posted: Postado
   updated: Atualizado
-  timeago:
-    day: dias atrás
-    hour: horas atrás
-    minute: minutos atrás
-    just_now: agora
   words: palavras
   pageview_measure: visualizações
   read_time:
