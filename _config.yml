@@ -193,7 +193,7 @@ exclude:
   - package*.json
 
 jekyll-archives:
-  enabled: []
+  enabled: [categories, tags]
   layouts:
     category: category
     tag: tag
