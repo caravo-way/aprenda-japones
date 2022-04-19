@@ -1,5 +1,5 @@
 ---
-title: Guia de Japonês
+title: Guia
 icon: fas fa-solid fa-book-open
 order: 1
 ---
