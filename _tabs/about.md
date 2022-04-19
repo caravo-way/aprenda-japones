@@ -1,7 +1,7 @@
 ---
 title: Sobre
-icon: fas fa-info-circle
-order: 4
+icon: fas fa-solid fa-heart
+order: 2
 ---
 
 ### Quer contribuir?

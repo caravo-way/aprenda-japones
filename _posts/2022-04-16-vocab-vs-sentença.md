@@ -7,8 +7,5 @@ author: gustavo_maia
 comments: false
 ---
 
-> Caiu aqui de paraquedas? Da uma olhadinha no nosso [guia 📚]({% link _posts/2022-01-22-Guia de Japonês.md %}).
-{: .prompt-info }
-
 > Foi mal. Esse artigo ainda não foi escrito 😬.
 {: .prompt-info }
