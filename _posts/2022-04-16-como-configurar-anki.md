@@ -7,6 +7,11 @@ author: gustavo_maia
 comments: false
 ---
 
+> Requisitos:
+>
+> * [O papel do SRS]({% link _posts/2022-01-22-O papel do SRS.md %})
+{: .prompt-info}
+
 Essas são as minhas configurações. Especialmente pensadas para utilizar o modelo de cards [desse artigo.]({% link _posts/2022-04-16-animecards.md %})
 
 para satisfazer tanto os detalhistas quanto aos que só querem fazer funcionar, cada etapa da configuração terá 2 partes:

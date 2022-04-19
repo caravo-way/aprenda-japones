@@ -7,6 +7,11 @@ author: gustavo_maia
 comments: false
 ---
 
+> Requisitos:
+>
+> * Para a parte prática, domínio de Hiragana e Katakana
+{: .prompt-info}
+
 De início, eu não ia escrever essa seção. Quando comecei a estudar, não estudei nem li um guia de gramática de verdade, fui aprendendo por osmose e acabou dando certo. Mas como sugerido por [@Umaigenomu](https://twitter.com/Umaigenomu), estudar o básico do básico da gramática no começo te ajuda a entender as coisas muito mais rápido. Olhando para trás, é verdade. Eu não precisaria ter ouvido várias horas de cada ponto de gramática até meu cérebro aprender tudo de tanto ouvir.
 
 Mas não se engane, estudar gramática não é tão essencial quanto você pode estar pensando. **Você não precisa decorar nenhum ponto de gramática**, você só precisa entender o básico para ficar menos confuso quando começar a consumir conteúdo. Só isso.

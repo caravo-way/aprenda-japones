@@ -38,5 +38,5 @@ Você ve a frente do card, tenta se lembrar da resposta e clica para virar o car
 > Fique tranquilo que você vai aprender mais sobre os tipos diferentes de card em um outro artigo seguindo o nosso guia.
 {: .prompt-info }
 
-> O próximo artigo fala sobre imersão. Não se esqueça que o mais importante é o foco na imersão. É muito fácil se afundar no anki achando que é a parte mais importante. O anki é apenas um `complemento` para te ajudar na imersão.
+> Não se esqueça que o mais importante é o foco na imersão. É muito fácil se afundar no anki achando que é a parte mais importante. O anki é apenas um `complemento` para te ajudar na imersão. Mais sobre no próximo artigo.
 {: .prompt-warning }

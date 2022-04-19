@@ -15,8 +15,6 @@ No geral, existem dois tipos de cards: cards de vocabulário e cards de sentenç
 
 Já usei diversos modelos de card e o que uso hoje e recomendo é esse. É um pouquinho chato pra configurar mas no fim, criar cards vai ser bem fácil. Praticamente 1 clique.
 
-> ### Importante!
-> 
 > Antes que comecem com o cancelamento, entrei em contato com o fundador do site original perguntando o que ele achava de eu passar o conteúdo para português aqui no aprendajp e o que ele disse foi o seguinte:
 >
 >> Hey,

@@ -64,7 +64,7 @@ Como dito anteriormente, é na imersão que você vai de fato adquirir a língua
 
 [Cards de vocabulário ou cards de sentença?]({% link _posts/2022-04-16-vocab-vs-sentença.md %})
 
-[Configurando o Anki]({% link _posts/2022-04-16-como-configurar-anki.md %})
+[Entendendo as configurações do Anki]({% link _posts/2022-04-16-como-configurar-anki.md %})
 
 [Animecards]({% link _posts/2022-04-16-animecards.md %})
 
@@ -73,7 +73,8 @@ Como dito anteriormente, é na imersão que você vai de fato adquirir a língua
 Caso tenha ficado um pouco perdido, o que você vai fazer é:
 * Aprender Hiragana e Katakana até se sentir completamente confortável com ambos.
 * Enquanto está nesse processo, leia um guia de gramática de sua preferência.
-* Quando dominar os kana, você vai começar a seus estudos com Kanji e também sua imersão no japonês. Não se esqueça que anki não é a parte principal do processo. Seu tempo será dividido entre consumir japonês, criar cards com base no conteúdo e revisar diáriamente.
+* Quando dominar os Hiragana e Katakana, começará sua imersão no japonês, criando cards para revisar diáriamente.
+* Não se esqueça que anki não é a parte principal do processo. Seu tempo será dividido entre consumir japonês, criar cards com base no conteúdo e revisar diáriamente.
 
 #### Se quiser aprender mais sobre a teoria, casos de sucesso e exemplos de diferentes variantes do método, vá em frente, o que eu tenho está abaixo.
 
