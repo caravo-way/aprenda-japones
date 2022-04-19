@@ -43,16 +43,6 @@ Sim, foram 8 anos porque não estava tentando, foi automático. Com método e pr
 
 Cansei de te enrolar, vou te falar a média de tempo que as pessoas da comunidade de aprendizado de línguas com métodos similares levam para aprender japonês.
 
-De acordo com [Refold](https://refold.la/) que é uma das plataformas que ensinam a aprender línguas com imersão, a média de tempo é:
-
-> Consumindo 4 horas de japonês ativamente todos os dias: 2 anos até fluência completa.
->
-> Consumindo 3 horas de japonês ativamente todos os dias: 4 anos até fluência completa.
->
-> Consumindo 2 horas de japonês ativamente todos os dias: Só deus sabe.
-
-Tenha em mente que Refold é um site bem mainstream, pensado para todo mundo e nivelado bem por baixo, então tenha em mente que você pode levar o mesmo tempo mesmo se você tiver muito menos tempo diariamente para consumir japonês.
-
 Na minha experiência, com 9 meses de estudo, consumindo na **média** de 45 minutos de japonês por dia (exatamente, pois eu sou nerd e contei), isso é, alguns dias 2 horas, outros dias 4 horas, outros dias nada. E com a média de 20 minutos de SRS por dia (já chegaremos lá) meu nível de compreensão é o seguinte: Consigo consumir animes slice of life como:
 
 > [Ore Monogatari!!](https://myanimelist.net/anime/28297/Ore_Monogatari)
