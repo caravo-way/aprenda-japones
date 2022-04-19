@@ -7,6 +7,8 @@ author: gustavo_maia
 comments: false
 ---
 
+{% include guide-reference.md %}
+
 > Requisitos:
 >
 > * [O papel do SRS]({% link _posts/2022-01-22-O papel do SRS.md %})

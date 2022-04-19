@@ -9,6 +9,8 @@ author:
 comments: false
 ---
 
+{% include guide-reference.md %}
+
 SRS (Spaced Repetition System)
 
 Repetição Espaçada (SRS) é uma técnica de memorização extremamente eficiente.

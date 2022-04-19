@@ -7,5 +7,7 @@ author: gustavo_maia
 comments: false
 ---
 
+{% include guide-reference.md %}
+
 > Foi mal. Esse artigo ainda não foi escrito 😬.
 {: .prompt-info }

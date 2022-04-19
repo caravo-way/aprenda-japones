@@ -9,6 +9,8 @@ author:
 comments: false
 ---
 
+{% include guide-reference.md %}
+
 Depois de muito fuçar na internet, vi que a maioria dos cursos de japonês online oferecidos no Brasil são ou ruins, ou muito caros. Se o método ensinado pela maioria deles não fosse uma metodologia pública na internet a literalmente mais de uma década, não teria um problema com isso, mas é. Existem muitos recursos para te guiar no aprendizado de japonês, 100% deles estão em inglês e por esse motivo, brasileiros compilam essas informações, colocam em um curso cheio de marketing digital e vendem-lhe algo que pegaram de graça no site ao lado.
   
 ### Ok, mas se esse conteúdo já está no site ao lado, por que escrever   mais um?

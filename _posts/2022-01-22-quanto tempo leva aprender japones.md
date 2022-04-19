@@ -9,6 +9,8 @@ author:
 comments: false
 ---
 
+{% include guide-reference.md %}
+
 Fica tranquilo que não vou te responder com um “depende”, mas depende. Por mais que alguns aplicativos no estilo Duolingo façam parecer que aprender uma língua leva só uns minutos por dia, alguns dias da semana, isso simplesmente é falso. Aprender uma língua leva MUITAS horas. São horas ouvindo áudios e lendo conteúdos nativos, entendendo e assimilando como um nativo conversa com outro de forma natural. Isso leva milhares de horas, literalmente, provavelmente de 5000 a 10 000 horas de imersão na sua língua alvo e isso é especialmente verdade para japonês.
 
 O lado bom disso é que aprendendo dessa forma seu japonês será o mais natural possível, você não vai soar como um personagem que saiu de um livro do Paulo Coelho. Você vai soar como um nativo.

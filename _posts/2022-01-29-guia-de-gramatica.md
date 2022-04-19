@@ -7,6 +7,8 @@ author: gustavo_maia
 comments: false
 ---
 
+{% include guide-reference.md %}
+
 > Requisitos:
 >
 > * Para a parte prática, domínio de Hiragana e Katakana

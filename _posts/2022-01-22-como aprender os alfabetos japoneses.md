@@ -7,7 +7,7 @@ author: gustavo_maia
 comments: false
 ---
 
-## 漢字
+{% include guide-reference.md %}
 
 Existem diversas linhas possíveis para aprender kanji. A forma que eu indico hoje é utilizando cards de vocabulário. Enquanto consome conteúdos em japonês, salvando as palavras para revisar depois. Para isso, usaremos um programa específico que vou ensinar como funciona mais pra frente.
 
