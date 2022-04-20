@@ -7,8 +7,6 @@ author: gustavo_maia
 comments: false
 ---
 
-{% include guide-reference.md %}
-
 # Introdução
 
 [Animecards](https://animecards.site/) é um modelo de cards para o ANKI criado pela comunidade gringa de aprendizado de japonês.
