@@ -21,7 +21,7 @@ R: Um pouco pelo ponto escrito acima, um pouco porque acho legal relatar exatame
   
 ### Puts! Mas eu já falo inglês, não acha melhor eu simplesmente aprender tudo no site ao lado?
   
-R: Sim, acho. Recomendo que leia e siga o metodo do Moe [aqui](https://learnjapanese.moe/guide/)
+R: Sim, acho. Recomendo que leia e siga o método do Moe [aqui](https://learnjapanese.moe/guide/)
 
 NÃO! Tenho tempo. Quero a fonte que originou tudo, o suco sagrado, apenas o mel: Recomendo que leia o site do [AJATT](http://www.alljapaneseallthetime.com/blog/all-japanese-all-the-time-ajatt-how-to-learn-japanese-on-your-own-having-fun-and-to-fluency/)
   
@@ -29,7 +29,7 @@ NÃO! Tenho tempo. Quero a fonte que originou tudo, o suco sagrado, apenas o mel
   
 R: Não deveria, pô 🥳
   
-Falando sério, se você quer aprender para uma viagem que esta chegando ou vai precisar falar japonês logo, você vai se dar melhor seguindo um método tradicional mesmo. Um com foco em turismo seria ideal. Se seu objetivo é simplesmente conseguir consumir japonês em animes, mangás, youtubers nativos, sites de notícia, light novels etc, vem por aqui que vai ser melhor, menos doloroso e mais divertido.
+Falando sério, se você quer aprender para uma viagem que está chegando ou vai precisar falar japonês logo, você vai se dar melhor seguindo um método tradicional mesmo. Um com foco em turismo seria ideal. Se seu objetivo é simplesmente conseguir consumir japonês em animes, mangás, youtubers nativos, sites de notícia, light novels etc, vem por aqui que vai ser melhor, menos doloroso e mais divertido.
   
 #### Legal, e quanto vai custar essa brincadeira?
   

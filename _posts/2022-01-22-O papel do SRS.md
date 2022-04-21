@@ -19,7 +19,7 @@ Após as 10 horas, a informação é apagada de sua memoria, você pode tentar s
 
 Com isso em mente, usaremos um programa chamado [Anki.](https://apps.ankiweb.net/) Anki é um programa de [flashcards](https://en.wikipedia.org/wiki/Flashcard), isso é, você cria cartões com informações que deseja lembrar para revisar periodicamente.
 
-A diferença é que o Anki utiliza um algoritmo de SRS, que faz você revisar as informações exatamente quando você está prestes a esquecer-se delas, te poupando de revisar demais desnecessáriamente e te impedindo de não revisar o suficiente a ponto de esquecer antes da janela de lembrança.
+A diferença é que o Anki utiliza um algoritmo de SRS, que faz você revisar as informações exatamente quando você está prestes a esquecer-se delas, te poupando de revisar demais desnecessariamente e te impedindo de não revisar o suficiente a ponto de esquecer antes da janela de lembrança.
 
 Como funciona na prática?
 
@@ -33,7 +33,7 @@ Quando for fazer suas reviews, os cards aparecerão para você como na imagem.
 
 ![image](https://user-images.githubusercontent.com/19489884/150617934-bb390e8e-5745-4575-93e7-63081bcf52b4.png)
 
-Você ve a frente do card, tenta se lembrar da resposta e clica para virar o card. Você escolhe o quão bem se lembrou da informação e o Anki lida com o resto para você, decidindo quando vai ser a melhor hora para você ver aquela informação de novo. Existem outras peculiaridades mas a gente pode nerdar nisso mais tarde.
+Você vê a frente do card, tenta se lembrar da resposta e clica para virar o card. Você escolhe o quão bem se lembrou da informação e o Anki lida com o resto para você, decidindo quando vai ser a melhor hora para você ver aquela informação de novo. Existem outras peculiaridades mas a gente pode nerdar nisso mais tarde.
 
 > Fique tranquilo que você vai aprender mais sobre os tipos diferentes de card em um outro artigo seguindo o nosso guia.
 {: .prompt-info }
