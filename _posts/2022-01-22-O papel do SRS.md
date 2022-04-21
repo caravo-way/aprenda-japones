@@ -13,9 +13,9 @@ SRS (Spaced Repetition System)
 
 Repetição Espaçada (SRS) é uma técnica de memorização extremamente eficiente.
 
-Seu cérebro memoriza coisas da seguinte forma: Você adiciona uma nova informação, seu cérebro atribui um tempo para a informação, pro exemplo aqui, 10 horas.
+Seu cérebro memoriza coisas da seguinte forma: você adiciona uma nova informação, seu cérebro atribui um tempo para a informação, para o exemplo aqui, 10 horas.
 
-Após as 10 horas, a informação é apagada de sua memoria, você pode tentar se lembrar da informação, mas é impossivel. Se você revisar essa informação logo antes dela ser eliminada, seu cérebro estende o tempo dela, para o exemplo, 20 horas. Se logo antes das proximas 20 horas acabarem você ver a informação novamente, o tempo dela é mais uma vez estendido, e de novo, e de novo ate que vá diretamente para sua memória de longo prazo. É assim que seu cérebro decide o que e importante ser lembrado. Você pode ler um pouco mais sobre repetição espaçada [aqui.](https://en.wikipedia.org/wiki/Spaced_repetition)
+Após as 10 horas, a informação é apagada de sua memória, você pode tentar se lembrar da informação, mas é impossível. Se você revisar essa informação logo antes dela ser eliminada, seu cérebro estende o tempo dela, para o exemplo, 20 horas. Se logo antes das próximas 20 horas acabarem você ver a informação novamente, o tempo dela é mais uma vez estendido, e de novo, e de novo ate que vá diretamente para sua memória de longo prazo. É assim que seu cérebro decide o que e importante ser lembrado. Você pode ler um pouco mais sobre repetição espaçada [aqui.](https://en.wikipedia.org/wiki/Spaced_repetition)
 
 Com isso em mente, usaremos um programa chamado [Anki.](https://apps.ankiweb.net/) Anki é um programa de [flashcards](https://en.wikipedia.org/wiki/Flashcard), isso é, você cria cartões com informações que deseja lembrar para revisar periodicamente.
 
@@ -33,10 +33,10 @@ Quando for fazer suas reviews, os cards aparecerão para você como na imagem.
 
 ![image](https://user-images.githubusercontent.com/19489884/150617934-bb390e8e-5745-4575-93e7-63081bcf52b4.png)
 
-Você vê a frente do card, tenta se lembrar da resposta e clica para virar o card. Você escolhe o quão bem se lembrou da informação e o Anki lida com o resto para você, decidindo quando vai ser a melhor hora para você ver aquela informação de novo. Existem outras peculiaridades mas a gente pode nerdar nisso mais tarde.
+Você vê a frente do card, tenta se lembrar da resposta e clica para virar o card. Você escolhe o quão bem se lembrou da informação e o Anki lida com o resto para você, decidindo quando vai ser a melhor hora para você ver aquela informação de novo. Existem outras peculiaridades, mas a gente pode nerdar nisso mais tarde.
 
-> Fique tranquilo que você vai aprender mais sobre os tipos diferentes de card em um outro artigo seguindo o nosso guia.
+> Fique tranquilo que você vai aprender mais sobre os tipos diferentes de card em outro artigo seguindo o nosso guia.
 {: .prompt-info }
 
-> Não se esqueça que o mais importante é o foco na imersão. É muito fácil se afundar no anki achando que é a parte mais importante. O anki é apenas um `complemento` para te ajudar na imersão. Mais sobre no próximo artigo.
+> Não se esqueça que o mais importante é o foco na imersão. É muito fácil se afundar no Anki pensando ser a parte mais importante. O Anki é apenas um `complemento` para te ajudar na imersão. Mais sobre no próximo artigo.
 {: .prompt-warning }

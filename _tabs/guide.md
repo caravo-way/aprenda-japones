@@ -22,13 +22,13 @@ Antes de tudo, gostaria de deixar claro que o objetivo desse projeto não é nec
 
 O objetivo desse guia é te ensinar a aprender por conta própria.
 
-Você precisa ser autodidata e entender que boa parte do processo envolve pesquisar por conta própria. Por isso, recomendo fortemente que entre em uma comunidade de pessoas que também estão aprendendo. Pode ser no Discord, no zap, presencialmente, o que achar melhor.
+Você precisa ser autodidata e entender que boa parte do processo envolve pesquisar por conta própria. Por isso, recomendo fortemente que entre em uma comunidade de pessoas que também estão aprendendo. Pode ser no Discord, no whatsapp, presencialmente, o que achar melhor.
 
-Por que esse site foi criado? Vale a pena você sequer ler isso aqui? O método é para você?
+Por qual motivo esse site foi criado? Vale a pena você sequer ler isso aqui? O método é para você?
 
 [Por que mais um site te ensinando a aprender japonês?]({% link _posts/2022-01-22-por-que-mais-um-site-ensinando-japones?.md %})
 
-Agora que já sabe mais ou menos se vai ou não seguir o método, você precisa saber se vai ter os resultados que espera, como o método funciona e se vale seu tempo, certo?
+Agora que já sabe se vai ou não seguir o método, você precisa saber se vai ter os resultados que espera, como o método funciona e se vale seu tempo, certo?
 
 [Quanto tempo leva aprender japonês?]({% link _posts/2022-01-22-quanto tempo leva aprender japones.md %})
 
@@ -39,7 +39,7 @@ Esse artigo irá explicar o necessário sobre os 3 alfabetos utilizados no japon
 [Hiragana, Katakana e Kanji]({% link _posts/2022-01-22-kana.md %})
 
 
-Apenas um resumo sobre como será seu estudo de Kanji. As explicações tecnicas e práticas vem nos artigos seguintes.
+Apenas um resumo sobre como será seu estudo de Kanji. As explicações técnicas e práticas vem nos artigos seguintes.
 
 [Como aprender Kanji]({% link _posts/2022-01-22-como aprender os alfabetos japoneses.md %})
 
@@ -68,8 +68,8 @@ Como dito anteriormente, é na imersão que você vai de fato adquirir a língua
 Caso tenha ficado um pouco perdido, o que você vai fazer é:
 * Aprender Hiragana e Katakana até se sentir completamente confortável com ambos.
 * Enquanto está nesse processo, leia um guia de gramática de sua preferência.
-* Quando dominar os Hiragana e Katakana, começará sua imersão no japonês, criando cards para revisar diáriamente.
-* Não se esqueça que anki não é a parte principal do processo. Seu tempo será dividido entre consumir japonês, criar cards com base no conteúdo e revisar diáriamente.
+* Quando dominar os Hiragana e Katakana, começará sua imersão no japonês, criando cards para revisar diariamente.
+* Não se esqueça que Anki não é a parte principal do processo. Seu tempo será dividido entre consumir japonês, criar cards com base no conteúdo e revisar diariamente.
 
 #### Se quiser aprender mais sobre a teoria, casos de sucesso e exemplos de diferentes variantes do método, vá em frente, o que eu tenho está abaixo.
 

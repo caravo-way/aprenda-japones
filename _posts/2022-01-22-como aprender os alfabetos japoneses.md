@@ -7,14 +7,14 @@ author: gustavo_maia
 comments: false
 ---
 
-Existem diversas linhas possíveis para aprender kanji. A forma que eu indico hoje é utilizando cards de vocabulário. Enquanto consome conteúdos em japonês, salvando as palavras para revisar depois. Para isso, usaremos um programa específico que vou ensinar como funciona mais pra frente.
+Existem diversas linhas possíveis para aprender kanji. A forma que eu indico hoje é utilizando cards de vocabulário. Enquanto consome conteúdos em japonês, salvando as palavras para revisar depois. Para isso, usaremos um programa específico que vou ensinar como funciona mais para frente.
 
 ![image](https://user-images.githubusercontent.com/19489884/150615720-1fcc1fc9-2792-40d0-8a40-c055b68c2987.png)
 
 Vantagens:
 
-* Aprende o significado do kanji, aprende sua leitura e tambem vocabulário, tudo ao mesmo tempo.
-* Te ajuda a ler japonês um pouco mais rápido
+* Aprende o significado do kanji, aprende sua leitura e também vocabulário, tudo ao mesmo tempo.
+* Ajuda a ler japonês um pouco mais rápido
 
 Desvantagens:
 

@@ -18,23 +18,23 @@ Mas não se engane, estudar gramática não é tão essencial quanto você pode 
 
 Claro, quanto mais você estudar gramática, mais proveitoso vai ser o tempo que passar consumindo conteúdo, um dia escreverei um artigo sobre isso. Se eu pudesse voltar no tempo, faria isso!
 
-Se você acha que eu sou um idiota por te falar que para aprender uma língua você não precisa decorar pontos de gramática:
+Se você pensa que eu sou um idiota por te falar que para aprender uma língua você não precisa decorar pontos de gramática:
 
-Me explica aí, o que é pretérito imperfeito do subjuntivo? Se você é nativo, tenho certeza que vai saber me responder.
+Explica aí, o que é pretérito imperfeito do subjuntivo? Se você é nativo, tenho certeza que vai saber me responder.
 
 Não?
 
 Tudo bem, então só me explica o que é pretérito perfeito composto, esse ta na ponta da língua que eu sei.
 
-Também não? Pois é. Você provavelmente não sabe explicar nenhuma dessas regras e ainda por cima nem se lembra sobre o que se trata, é normal. Isso não te impede de usar elas todos os dias e escrever da forma correta. Você sabe gramática porque escutou português a sua vida inteira. Não precisa ficar juntando pecinhas de lego na sua cabeça toda vez que vai montar uma frase, você simplesmente sabe o que esta certo e o que está errado só de ouvir. Mesmo que não saiba exatamente o porquê, você sabe e é capaz de consertar.
+Também não? Pois é. Você provavelmente não sabe explicar nenhuma dessas regras e ainda por cima nem se lembra sobre o que se trata, é normal. Isso não te impede de usar elas diariamente e escrever da forma correta. Você sabe gramática porque escutou português a sua vida inteira. Não precisa ficar juntando peças de lego na sua cabeça toda vez que vai montar uma frase, você simplesmente sabe o que esta certo e o que está errado só de ouvir. Mesmo que não saiba exatamente o porquê, você sabe e consegue consertar.
 
-Com japonês vai ser exatamente a mesma coisa, então não se preocupe em ficar marretando gramática na sua cabeça por horas e horas. 
+Com japonês vai ser a mesma coisa, então não se preocupe em ficar marretando gramática na sua cabeça por horas e horas. 
 
 > Recomendo que leia o guia do [Tae Kim](https://docs.google.com/document/d/1-PvqBZxUzCkxBRw8PxUD4IlDrewP0j1B8EFxvKCBcXc/edit#) que foi gentilmente traduzido pelo pessoal do [Japão Pop](https://discord.gg/YyQxkzYfJh)
 >
-> Se por qualquer motivo não gostar do Tae Kim, sinta-se a vontade pra estudar o básico de gramática do jeito que quiser. Livros, Youtube, você que manda.
+> Se por qualquer motivo não gostar do Tae Kim, sinta-se a vontade para estudar o básico de gramática do jeito que quiser. Livros, Youtube, você que manda.
 {: .prompt-tip }
 
-Criar cards no anki para os pontos de gramática tambem é uma opção, você que sabe.
+Criar cards no Anki para os pontos de gramática também é uma opção, você que sabe.
 
 Não se apegue muito e vá na fé.

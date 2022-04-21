@@ -15,7 +15,7 @@ O lado bom disso é que aprendendo dessa forma seu japonês será o mais natural
 
 Te desanimei? Relaxa. Esse tempo que eu disse é para você atingir fluência completa no idioma. Lembre-se que **20% das palavras mais comuns da língua japonesa representam 80% da língua falada.** E pode confiar em mim, você vai levar muito menos tempo do que imagina para chegar nisso. Falaremos mais disso adiante 😚
 
-## Como aprender Japonês?
+## Como aprender japonês?
 
 Ouvindo, lendo e consumindo muito japonês enquanto utiliza as ferramentas e metodologias corretas. É assim que você aprendeu português e é assim que você vai aprender japonês!
 
@@ -33,9 +33,9 @@ _Seu cérebro simplesmente não consegue aceitar que está recebendo mensagens q
 
 Sim, você consome japonês a 10 anos, com legenda. Se você utiliza legendas, seu cérebro não tem motivo algum para gastar energia tentando criar um modelo daquela língua na sua cabeça. Ler legenda é automático, você não precisa nem pensar. Seu cérebro é tão bom nisso que é quase como se você estivesse escutando os personagens falando na sua língua nativa, é tão automático que você nem se lembra de que esta lendo, certo?
 
-Eu levei mais ou menos 8 anos para aprender inglês dessa forma.
+Eu levei aproximadamente 8 anos para aprender inglês dessa forma.
 
-**8 ANOS? Tá maluco, to vazando.**
+**OITO ANOS? Tá maluco, to vazando.**
 
 Sim, foram 8 anos porque não estava tentando, foi automático. Com método e prática intencional, seu cérebro leva *muito menos tempo* do que isso para adquirir uma língua. Uma coisa é você atirar um dardo aleatoriamente, centenas de vezes até acertar o alvo. Outra coisa é você *tentar mirar no alvo*.
 
