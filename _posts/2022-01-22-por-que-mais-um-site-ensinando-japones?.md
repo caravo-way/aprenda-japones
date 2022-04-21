@@ -1,5 +1,5 @@
 ---
-title: Por que mais um site ensinando te ensinando a aprender japonês?
+title: Por que mais um site te ensinando a aprender japonês?
 date: 2022-01-22 17:36:00 +/-TTTT
 categories: [Guia, Teoria]
 tags: [guia, teoria]
