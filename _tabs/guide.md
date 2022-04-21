@@ -16,38 +16,39 @@ order: 1
 > Se quiser colaborar com o projeto, clique na aba `Sobre` para ver como pode colaborar com artigos, revisões e tudo mais. Obrigado!
 {: .prompt-warning }
 
-## Prefácio
+## É fácil aprender a falar japonês?
 
-Antes de tudo, gostaria de deixar claro que o objetivo desse projeto não é necessariamente te ensinar japonês. Você pode até encontrar um artigo ou outro explicando um ponto interessante da língua, ou algo do tipo, mas não é o objetivo principal. Você não vai encontrar no guia principal aulas de gramática, Kanji, cultura, pronúncia, etc.
+As pessoas tendem a pensar que japonês é uma língua difícil de se aprender. Acredito que essa noção se dê não pela língua, e sim pelos métodos usados para aprende-la. Ir assistir uma aula é difícil. Ler um livro de gramática é difícil. Fazer exercícios é difícil. Fazer isso tudo por anos até obter o resultado desejado é _muito_ difícil.
 
-O objetivo desse guia é te ensinar a aprender por conta própria.
+A maioria das pessoas não tem sucesso ao aprender um idioma porque ninguém aguenta fazer algo que não gosta diariamente para sempre. Se você não gostar do processo, o provável é que não vai dar certo. Portanto, o objetivo desse guia é te mostrar _um dos métodos_ efetivos para se aprender uma língua enquanto faz coisas que você gosta e te divertem. 
 
 Você precisa ser autodidata e entender que boa parte do processo envolve pesquisar por conta própria. Por isso, recomendo fortemente que entre em uma comunidade de pessoas que também estão aprendendo. Pode ser no Discord, no whatsapp, presencialmente, o que achar melhor.
 
-Por qual motivo esse site foi criado? Vale a pena você sequer ler isso aqui? O método é para você?
+### Como seguir esse guia
 
-[Por que mais um site te ensinando a aprender japonês?]({% link _posts/2022-01-22-por-que-mais-um-site-ensinando-japones?.md %})
+Esse guia é completamente escrito e dividido em etapas. Essas etapas são separadas por artigos, sempre que um artigo for indicado, leia antes de seguir adiante.
 
-Agora que já sabe se vai ou não seguir o método, você precisa saber se vai ter os resultados que espera, como o método funciona e se vale seu tempo, certo?
+Nesse primeiro artigo tento explicar qual foi a motivação para a criação disso aqui e [por que mais um site te ensinando a aprender japonês.]({% link _posts/2022-01-22-por-que-mais-um-site-ensinando-japones?.md %})
 
-[Quanto tempo leva aprender japonês?]({% link _posts/2022-01-22-quanto tempo leva aprender japones.md %})
-
-## Introdução
+### Qual e a diferença entre Hiragana e Katakana?
 
 Esse artigo irá explicar o necessário sobre os 3 alfabetos utilizados no japonês. O artigo é pensado para ter apenas o necessário para você não se sentir confuso enquanto lê as próximas etapas, então não se preocupe se parecer superficial, porque é.
 
 [Hiragana, Katakana e Kanji]({% link _posts/2022-01-22-kana.md %})
 
+### Como começar a estudar kanji?
 
 Apenas um resumo sobre como será seu estudo de Kanji. As explicações técnicas e práticas vem nos artigos seguintes.
 
 [Como aprender Kanji]({% link _posts/2022-01-22-como aprender os alfabetos japoneses.md %})
 
+### Como estudar gramática japonesa?
+
 Qual o papel do estudo da gramática na aquisição de uma língua?
 
 [Guia de Gramática]({% link _posts/2022-01-29-guia-de-gramatica.md %})
 
-## Parte prática
+### Parte prática
 
 Aqui você vai entender como será possível aprender todos esses caracteres de forma tranquila, rápida e eficiente. Como atingir fluência e conforto na leitura de japonês.
 
@@ -63,7 +64,8 @@ Como dito anteriormente, é na imersão que você vai de fato adquirir a língua
 
 [Animecards]({% link _posts/2022-04-16-animecards.md %})
 
-## Resumo
+### Resumo
+
 *Não adianta nada ler o resumo sem ler os Artigos, não vai dar em nada.*
 Caso tenha ficado um pouco perdido, o que você vai fazer é:
 * Aprender Hiragana e Katakana até se sentir completamente confortável com ambos.
@@ -71,6 +73,6 @@ Caso tenha ficado um pouco perdido, o que você vai fazer é:
 * Quando dominar os Hiragana e Katakana, começará sua imersão no japonês, criando cards para revisar diariamente.
 * Não se esqueça que Anki não é a parte principal do processo. Seu tempo será dividido entre consumir japonês, criar cards com base no conteúdo e revisar diariamente.
 
-#### Se quiser aprender mais sobre a teoria, casos de sucesso e exemplos de diferentes variantes do método, vá em frente, o que eu tenho está abaixo.
+### Recursos extras
 
 [Recursos Extras]({% link _posts/2022-01-22-recursos extras.md %})

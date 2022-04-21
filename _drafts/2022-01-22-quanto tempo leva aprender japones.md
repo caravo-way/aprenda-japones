@@ -13,15 +13,15 @@ Fica tranquilo que não vou te responder com um “depende”, mas depende. Por 
 
 O lado bom disso é que aprendendo dessa forma seu japonês será o mais natural possível, você não vai soar como um personagem que saiu de um livro do Paulo Coelho. Você vai soar como um nativo.
 
-Te desanimei? Relaxa. Esse tempo que eu disse é para você atingir fluência completa no idioma. Lembre-se que **20% das palavras mais comuns da língua japonesa representam 80% da língua falada.** E pode confiar em mim, você vai levar muito menos tempo do que imagina para chegar nisso. Falaremos mais disso adiante 😚
+Te desanimei? Relaxa. Esse tempo que eu disse é para você atingir fluência completa no idioma. Lembre-se que **20% das palavras mais comuns da língua japonesa representam 80% da língua falada.** E pode confiar em mim, você vai levar muito menos tempo do que imagina para chegar nisso. Falaremos mais disso adiante 😚 
 
 ## Como aprender japonês?
 
-Ouvindo, lendo e consumindo muito japonês enquanto utiliza as ferramentas e metodologias corretas. É assim que você aprendeu português e é assim que você vai aprender japonês!
+Ouvindo, lendo e consumindo muito japonês enquanto utiliza as ferramentas e metodologias corretas. É assim que você aprendeu português e é assim que você vai aprender japonês! 
 
-Acredito fortemente na [Teoria da Aquisição de Segundo Idioma de Stephen Krashen](https://www.sk.com.br/sk-krash.html). De acordo com ele, seres humanos aprendem línguas apenas de uma forma: compreendendo mensagens. Nos aprofundaremos mais nisso em outro artigo!
+Acredito fortemente na [Teoria da Aquisição de Segundo Idioma de Stephen Krashen](https://www.sk.com.br/sk-krash.html). De acordo com ele, seres humanos aprendem línguas apenas de uma forma: compreendendo mensagens. Nos aprofundaremos mais nisso em outro artigo! 
 
-Nesse blog, vou te ensinar a construir uma base suficiente de japonês para você conseguir aprender o idioma enquanto faz coisas que você gosta. Assistindo séries, filmes, animes, ouvindo podcasts, vídeos no YouTube, o que você quiser! Chamamos esse processo de **imersão.**
+Nesse blog, vou te ensinar a construir uma base suficiente de japonês para você conseguir aprender o idioma enquanto faz coisas que você gosta. Assistindo séries, filmes, animes, ouvindo podcasts, vídeos no YouTube, o que você quiser! Chamamos esse processo de **imersão.** 
 
 ## Vou aprender uma língua só ouvindo e lendo conteúdo feito nela?
 
