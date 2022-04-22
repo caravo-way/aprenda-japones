@@ -24,29 +24,53 @@ A maioria das pessoas não tem sucesso ao aprender um idioma porque ninguém agu
 
 Você precisa ser autodidata e entender que boa parte do processo envolve pesquisar por conta própria. Por isso, recomendo fortemente que entre em uma comunidade de pessoas que também estão aprendendo. Pode ser no Discord, no whatsapp, presencialmente, o que achar melhor.
 
-### Como seguir esse guia
+> **Como seguir esse guia**
+>
+> Esse guia é completamente escrito e dividido em etapas. Essas etapas são separadas por artigos, sempre que um artigo for indicado, leia antes de seguir adiante.
+> 
+> Nesse primeiro artigo tento explicar qual foi a motivação para a criação disso aqui e [por que mais um site te ensinando a aprender japonês.]({% link _posts/2022-01-22-por-que-mais-um-site-ensinando-japones?.md %})
+{: .prompt-info }
 
-Esse guia é completamente escrito e dividido em etapas. Essas etapas são separadas por artigos, sempre que um artigo for indicado, leia antes de seguir adiante.
+### Qual é a diferença entre Hiragana e Katakana?
 
-Nesse primeiro artigo tento explicar qual foi a motivação para a criação disso aqui e [por que mais um site te ensinando a aprender japonês.]({% link _posts/2022-01-22-por-que-mais-um-site-ensinando-japones?.md %})
+Esse artigo irá explicar a diferença entre os dois alfabetos e dará uma visão por cima de Kanji.
 
-### Qual e a diferença entre Hiragana e Katakana?
-
-Esse artigo irá explicar o necessário sobre os 3 alfabetos utilizados no japonês. O artigo é pensado para ter apenas o necessário para você não se sentir confuso enquanto lê as próximas etapas, então não se preocupe se parecer superficial, porque é.
+É importante que você não fique neurado nessa etapa. Hiragana e Katakana pode parecer algo complicado para você agora, mas com o tempo você dominar ambos é inevitável. Assim que aprender o necessário e se sentir confortável, siga em frente.
 
 [Hiragana, Katakana e Kanji]({% link _posts/2022-01-22-kana.md %})
 
 ### Como começar a estudar kanji?
 
-Apenas um resumo sobre como será seu estudo de Kanji. As explicações técnicas e práticas vem nos artigos seguintes.
+Existem duas abordagens para o estudo de Kanji.
 
-[Como aprender Kanji]({% link _posts/2022-01-22-como aprender os alfabetos japoneses.md %})
+Estudo com vocabulário 
+: Salvando palavras que encontrou assistindo ou lendo algum conteúdo para revisar diariamente até internalizar a palavra.
+
+| Palavra | Leitura | Significado |
+|---------|---------|-------------|
+| 先生      | せんせい    | Professor   |
+| 今日      | きょう     | Hoje        |
+
+
+Estudo de Kanji isolado
+: Aprendendo um determinado número de Kanji por dia, associando eles a uma palavra em português.
+
+| Palavra | Significado |
+|---------|-------------|
+| 日       | Dia         |
+| 月       | Lua         |
+
+
+Cada um tem suas vantagens, explico isso no artigo de [como aprender Kanji.]({% link _posts/2022-01-22-como aprender os alfabetos japoneses.md %})
 
 ### Como estudar gramática japonesa?
 
-Qual o papel do estudo da gramática na aquisição de uma língua?
+Antes de tudo, você precisa entender qual o papel do estudo de gramática na aquisição de uma língua. Por que estudar gramática e até que ponto vale a pena? 
 
 [Guia de Gramática]({% link _posts/2022-01-29-guia-de-gramatica.md %})
+
+> Deste ponto em diante os artigos estão mais incompletos e menos organizados. Estou trabalhando neles conforme consigo tempo.
+{: .prompt-warning }
 
 ### Parte prática
 
