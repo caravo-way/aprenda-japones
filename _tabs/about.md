@@ -10,7 +10,7 @@ Se quiser contribuir com artigos, revisões ou sugestões, sinta-se a vontade pa
 
 ### Ainda tem dúvidas?
 
-Me manda um email em aprendajp@fastmail.com que a gente conversa
+Me manda um email em contato@aprendajp.com que a gente conversa
 
 #### Se gostou do meu trabalho aqui e acha que vale um cafézinho, agradeço!
 
