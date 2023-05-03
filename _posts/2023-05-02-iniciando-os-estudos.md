@@ -2,8 +2,8 @@
 title: Iniciando os estudos do zero
 date: 2023-05-02 18:44:00 +/-TTTT
 categories: [Guia]
-tags: [guia, anki, hiragana, katakana]
-author: nicolasanaia
+tags: [guia, progresso, anki, hiragana, katakana]
+author: nicolas_anaia
 comments: false
 ---
 
