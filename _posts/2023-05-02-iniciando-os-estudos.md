@@ -9,7 +9,7 @@ comments: false
 
 Vou começar sendo sincero e direto ao ponto: eu não acreditava que conseguiria estudar japonês sozinho. Aprender a falar já seria uma tarefa complicada, mas aí surgem os agravantes que assustam os não nativos: **hiragana, katakana e kanji**. Estarei mentindo se disser que nunca tentei aprender os dois primeiros, mas nas vezes em que o fiz, foram com vídeos no Youtube que mais te ensinavam a escrever do que uma técnica pra lembrar em si.
 
-Depois de muito tempo com o **Gustavo Maia**, criador do site [Aprenda Japonês](https://aprendajp.com/), insistindo para que eu tentasse, finalmente resolvi dar uma chance. Vou detalhar um pouco mais o passo a passo de [como comecei](https://aprendajp.com/posts/iniciando-os-estudos/#primeiros-passos) e os [resultados que obtive](https://aprendajp.com/posts/iniciando-os-estudos/#resultados-rápidos) em 2 semanas (até menos).
+Depois de muito tempo com o **Gustavo Maia**, criador do site [Aprenda Japonês](https://aprendajp.com/), insistindo para que eu tentasse, finalmente resolvi dar uma chance. Vou detalhar um pouco mais o passo a passo de [como comecei](#primeiros-passos) e os [resultados que obtive](#resultados-rápidos) em 2 semanas (até menos).
 
 
 ## Primeiros Passos
