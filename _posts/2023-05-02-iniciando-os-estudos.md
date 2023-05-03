@@ -55,6 +55,7 @@ Recomendo que você só faça como eu fiz no começo: instale os decks de hiraga
 ## Próximos Passos
 
 Agora é a hora que você diz "Tá, sabe ler hiragana e katakana. Mas o que você vai ler se não entende os significados das palavras e nem os kanjis?".
+
 A resposta que eu te dou é: calma! Uma coisa de cada vez. Irei abordar em texto aqui em breve como seguir para expandir seu vocabulário e entender gramática (e porque é melhor seguir nessa ordem), então por aqui me despeço.
 
 Obrigado por ter lido até aqui e até a próxima! 😉
