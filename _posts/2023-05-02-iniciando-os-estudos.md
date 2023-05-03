@@ -35,7 +35,7 @@ Os resultados que obtive fazendo esse simples passo a passo foram incríveis. Eu
 
 ### Hiraganas
 
-Eles são simpáticos. Foi incrível ver que em 1 semana eu já estava acertando 95% dos Hiraganas que me surgiam nos casos. Os erros eram em sua maioria enganos pois alguns (poucos) são bem parecidos. Mas quando você conseguir distinguir por suas pequenas diferenças, não vai errar mais.
+Eles são simpáticos. Foi incrível ver que em 1 semana eu já estava acertando 95% dos Hiraganas que me surgiam nos cards. Os erros eram em sua maioria enganos pois alguns (poucos) são bem parecidos. Mas quando você conseguir distinguir por suas pequenas diferenças, não vai errar mais.
 Me senti tão satisfeito fazendo os decks de Hiragana que senti que queria mais. Procurei por um outro deck pra complementar depois dessa primeira semana e encontrei o [Japanese Hiragana](https://ankiweb.net/shared/info/195754716), que indiquei acima. Ele contém um "sub deck" de **Basic** e **Advanced**. Comecei fazer o Advanced dele para reforçar ainda mais o meu conhecimento. Depois de mais uma semana completa eu já não errava mais.
 Minha prova de fogo foi quando, depois dessas duas semanas, fui viajar e fiquei 4 dias sem fazer meus cards. Então na volta de viagem, quando fui cumprir com meu dever diário que eu havia abandonado, pude ver que consegui de fato reter muito conhecimento: dos dois decks que fiz, errei apenas dois hiraganas. Isso é algo que me mostrou como é fácil desde que você dedique pouco tempo diário nesse objetivo.
 
