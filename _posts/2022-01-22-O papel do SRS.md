@@ -3,9 +3,7 @@ title: O papel do SRS
 date: 2022-01-22 17:36:00 +/-TTTT
 categories: [Guia, Teoria]
 tags: [guia, teoria, srs, anki]
-author:
-  name: Gustavo Maia
-  link: https://github.com/itsmaia
+author: gustavo_maia
 comments: false
 ---
 
