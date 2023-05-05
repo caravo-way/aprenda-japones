@@ -3,9 +3,7 @@ title: Recursos Extras
 date: 2022-01-22 17:39:00 +/-TTTT
 categories: [Guia, Teoria]
 tags: [guia, teoria, recursos]
-author:
-  name: Gustavo Maia
-  link: https://github.com/itsmaia
+author: gustavo_maia
 comments: false
 ---
 
