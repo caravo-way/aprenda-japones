@@ -1,5 +1,5 @@
 ---
-title: Entendendo as configurações do Anki
+title: "Como usar e configurar o anki: Limites, falhas e configurações avançadas!"
 date: 2022-04-16 19:22:00 +/-TTTT
 categories: [Guia, Teoria]
 tags: [guia, teoria, srs, anki]
@@ -7,22 +7,15 @@ author: gustavo_maia
 comments: false
 ---
 
-> Requisitos:
->
-> * [O papel do SRS]({% link _posts/2022-01-22-O papel do SRS.md %})
+# Entendendo as configurações do Anki.
+
+Anki é uma das melhores ferramentas para o aprendizado de qualquer língua, não só o japonês. O algoritmo funciona muito bem e, se bem configurado e se seguir a metodologia correta, você poderá aproveitar mais e se frustrar menos.
+
+> Se quiser entender melhor como e porque o algoritmo do Anki funciona, recomendo que leia o artigo: [O papel do SRS]({% link _posts/2022-01-22-O papel do SRS.md %})
 {: .prompt-info}
 
-Essas são as minhas configurações. Especialmente pensadas para utilizar o modelo de cards [desse artigo.]({% link _posts/2022-04-16-animecards.md %})
 
-Para satisfazer tanto os detalhistas quanto aos que só querem fazer funcionar, cada etapa da configuração terá 2 partes:
-
-## Nome da configuração
-
-Explicação da função.
-
-> O que colocar: x.
-
-Dessa forma fica fácil para todo mundo. **No final tem um print com as minhas configurações.**
+Essas são as minhas configurações, especialmente pensadas para utilizar o modelo de cards [desse artigo.]({% link _posts/2022-04-16-animecards.md %}) Se não estiver afim de ler o artigo inteiro, no final dele vou deixar um print das minhas configurações.
 
 ## Limites Diários
 
@@ -34,13 +27,14 @@ Tome cuidado para não fazer muitos cards novos por dia. O volume de revisões r
 
 Recomendo que comece fazendo 10 cards por dia por duas semanas. Se estiver conseguindo fazer suas reviews e cards novos tranquilamente ou pensar que está difícil demais, mude o número de acordo.
 
-Mais do que 20 cards por dia ja seria demais para mim, por exemplo. Me tomaria muito tempo diariamente (mais de uma hora) e me deixaria bem cansado, tome cuidado para não entrar no ```anki hell.```
+Mais do que 20 cards por dia ja seria demais para mim, por exemplo. Me tomaria muito tempo diariamente (mais de uma hora) e me deixaria bem cansado, tome cuidado para não entrar no *anki hell.*
 
-> Comece com 10 e após duas semanas aumente ou diminua conforme a sua preferência.
+> **Minha recomendação:** Comece com 10 e após duas semanas aumente ou diminua conforme a sua preferência.
+{: .prompt-tip }
 
 ### Revisões máximas/dia 
 
-Estamos regulando isso conforme o número de novos cartões/dia, então, pode colocar 9999.
+Como estamos regulando isso conforme o número de novos cartões por dia, pode colocar 9999!
 
 ## Cartões novos
 
@@ -50,11 +44,12 @@ Esse valor define quantas etapas serão necessárias para um cartão novo ser gr
 
 Eu utilizo 3 etapas, então minha configuração é: 1m 5m 1h
 
-Se você marcar o card como correto, ele será mostrado novamente após 5 minutos. Se você marcar ele como correto novamente, ele será mostrado novamente depois de uma hora e no fim da sessão você aprova ele uma ultima vez. Se você falhar o card, ele é mostrado novamente após um minuto.
+Isso significa que se você marcar o card como correto, ele será mostrado novamente após 5 minutos. Se você marcar ele como correto novamente, ele será mostrado novamente depois de uma hora e no fim da sessão você aprova ele uma ultima vez. Se você falhar o card, ele é mostrado novamente após um minuto.
 
 Tenha em mente que você não precisará esperar uma hora até o card ser mostrado novamente caso sua sessão não dure tudo isso, eles serão simplesmente mostrados por último na sua sessão.
 
-> O que colocar: 1m 5m 1h
+> Minha recomendação: 1m 5m 1h
+{: .prompt-tip }
 
 ## Falhas
 
@@ -62,7 +57,8 @@ Tenha em mente que você não precisará esperar uma hora até o card ser mostra
 
 O mesmo de learning steps, mas para os cards que você falhou. Como é apenas algo que já sabe e apenas errou, deixo menos etapas: 2m e 60m. Assim, Reviso uma vez no começo e no final da sessão.
 
-> O que colocar: 2m 1h
+> **Minha recomendação:** 2m 1h 
+{: .prompt-tip }
 
 ### Ação sanguessuga  
 
@@ -89,9 +85,7 @@ Aumentar esse valor deixa suas reviews mais tranquilas no curto prazo, mas recom
 
 ### Novo intervalo
 
-Esse valor define o intervalo de cards que você já sabia, mas falhou. Deixar em 20% significa que falhar um card que estava com intervalo de 100 dias reverte o intervalo dele para 20 dias.
-
-Eu uso 20%
+Esse valor define o intervalo de cards que você já sabia, mas falhou. Deixar em 20% significa que falhar um card que estava com intervalo de 100 dias reverte o intervalo dele para 20 dias. Eu uso 20%
 
 ## Minhas configurações
 
