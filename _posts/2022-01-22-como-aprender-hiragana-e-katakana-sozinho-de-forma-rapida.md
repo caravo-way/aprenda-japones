@@ -45,7 +45,7 @@ Observe que, no exemplo abaixo, o sobrenome Dursley (ダーズリー) aparece 4 
 
 Exemplo da proporção Hiragana/Katakana:
 
-![Desktop View](https://github.com/gu-maia/learnjapanese-images/blob/main/posts/hiragana-katakana.jpg){: width="400" height="400"}
+![Desktop View](https://raw.githubusercontent.com/gu-maia/learnjapanese-images/main/posts/hiragana-katakana.jpg){: width="400" height="400"}
 *Trechos em roxo: Katakana || Trechos em laranja: Hiragana*
 
 ## Qual a melhor forma de aprender hiragana e katakana?
