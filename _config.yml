@@ -26,7 +26,7 @@ title: Aprenda Japonês                          # the main title
 tagline: Nunca pediremos os seus dados pessoais e nosso conteúdo sempre será gratuito. Fuja do marketing digital e de cursos esquisitos.    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Aprenda Japonês de verdade gratuitamente de forma eficiente e divertida. Nosso código e conteúdo é 100% aberto e feito pela comunidade, você pode ler e fazer tudo sem nem mesmo criar uma conta!
+  Aprenda Japonês sozinho de forma gratuita. Nosso guia e artigos são completamente gratuitos e não pedimos nenhuma informação pessoal.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://aprendajp.com'
@@ -41,11 +41,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Gustavo Maia
-  email: caravo@fastmail.com             # change to your email address
+  email: contato@aprendajp.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/maia_csec      # change to your twitter homepage
-    - https://github.com/itsmaia       # change to your github homepage
+    - https://github.com/gu-maia # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
