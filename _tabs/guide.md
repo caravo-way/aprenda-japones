@@ -82,8 +82,6 @@ Como dito anteriormente, é na imersão que você vai de fato adquirir a língua
 
 [Imersão]({% link _posts/2022-01-22-imersao.md %})
 
-[Cards de vocabulário ou cards de sentença?]({% link _posts/2022-04-16-vocab-vs-sentença.md %})
-
 [Entendendo as configurações do Anki]({% link _posts/2022-04-16-como-configurar-anki.md %})
 
 [Animecards]({% link _posts/2022-04-16-animecards.md %})
