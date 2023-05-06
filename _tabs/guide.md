@@ -37,7 +37,7 @@ Esse artigo irá explicar a diferença entre os dois alfabetos e dará uma visã
 
 É importante que você não fique neurado nessa etapa. Hiragana e Katakana pode parecer algo complicado para você agora, mas com o tempo você dominar ambos é inevitável. Assim que aprender o necessário e se sentir confortável, siga em frente.
 
-[Hiragana, Katakana e Kanji]({% link _posts/2022-01-22-kana.md %})
+[Como aprender hiragana e katakana sozinho de forma rápida.]({% link _posts/2022-01-22-como-aprender-hiragana-e-katakana-sozinho-de-forma-rapida.md %})
 
 ### Como começar a estudar kanji?
 
