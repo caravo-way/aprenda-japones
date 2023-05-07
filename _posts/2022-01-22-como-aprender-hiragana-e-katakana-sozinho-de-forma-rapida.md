@@ -75,3 +75,14 @@ Eu gosto [dessa ferramenta](https://itazuraneko.neocities.org/learn/kana.html) d
 
 Você pode fazer isso pelo tempo que desejar, mas é importante repetir todos os dias.
 
+## Saiba quando parar
+
+Não fique preso nessa etapa para sempre, encare hiragana e katakana como algo que você precisa fazer apenas para desbloquear o japonês básico que até então era só rabisco.
+
+Minha recomendação é a seguinte, assim que estiver acertando *boa parte* dos caracteres, mude algumas aplicações que usa diariamente para japonês. Um bom exemplo é o youtube, se você já sabe onde ficam todos os botões e está bem acostumado com a interface, você pode alterá-la para japonês, reforçando hiragana e katakana toda vez que usar o app. Isso vale para tudo, Youtube, Uber, Windows, Interface do Anki, tudo que você conseguir utilizar sem necessariamente entender o conteúdo escrito. Você vai interagir tanto com os alfabetos que eventualmente você vai aprender tudo por osmose.
+
+## Começando o estudo de Kanji
+
+Agora fica interessante, não é mesmo? Mas não se preocupe, esta parte não é tão complicada quanto parece. No artigo sobre kanji, explicaremos os métodos mais eficientes e tranquilos. E lembre-se, se você chegou até aqui, você já venceu a parte mais difícil de aprender japonês: dominar hiragana e katakana e vencer a inércia inicial.
+
+Próximo passo: [Como aprender Kanji]({% link _posts/2022-01-22-como aprender os alfabetos japoneses.md %})
