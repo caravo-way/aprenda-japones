@@ -5,6 +5,7 @@ categories: [Progresso]
 tags: [progresso, anki, hiragana, katakana]
 author: nicolas_anaia
 comments: false
+publised: false
 ---
 
 Vou começar sendo sincero e direto ao ponto: eu não acreditava que conseguiria estudar japonês sozinho. Aprender a falar já seria uma tarefa complicada, mas aí surgem os agravantes que assustam os não nativos: **hiragana, katakana e kanji**. Estarei mentindo se disser que nunca tentei aprender os dois primeiros, mas nas vezes em que o fiz, foram com vídeos no Youtube que mais te ensinavam a escrever do que uma técnica pra lembrar em si.
