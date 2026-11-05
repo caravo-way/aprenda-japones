@@ -71,7 +71,7 @@ Una mnemônicos a um deck de hiragana e/ou katakana para o Anki. Você pode adic
 
 ### Caso decida não usar Anki
 
-Eu gosto [dessa ferramenta](https://itazuraneko.neocities.org/learn/kana.html) do Itazuraneko. Marque todas as opções de hiragana e aprenda todas. Quando sentir que está errando pouco, marque as opções de combinações e aprenda todas. Depois, passe para o katakana e repita. Siga dessa forma até aprender tudo e acertar pelo menos 90% a 95% das vezes.
+Eu gosto do [Kana Dash](https://kanadash.com/pt?hiragana), que permite praticar a leitura e a escrita de hiragana e katakana em qualquer lugar. Marque todas as opções de hiragana e aprenda todas. Quando sentir que está errando pouco, marque as opções de combinações e aprenda todas. Depois, passe para o katakana e repita. Siga dessa forma até aprender tudo e acertar pelo menos 90% a 95% das vezes.
 
 Você pode fazer isso pelo tempo que desejar, mas é importante repetir todos os dias.
 
